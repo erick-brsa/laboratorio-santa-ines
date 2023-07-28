@@ -24,8 +24,9 @@ model User {
   createdAt     DateTime  @default(now())
   updatedAt     DateTime  @updatedAt
 
-  accounts Account[]
-  sessions Session[]
+  prescriptions Prescription[]
+  accounts     Account[]
+  sessions     Session[]
 }
 
 model Account {
@@ -52,6 +53,7 @@ model Session {
   sessionToken String   @unique
   userId       String   @db.ObjectId
   expires      DateTime
+
   user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
 }
 
@@ -69,9 +71,37 @@ model Analysis {
 }
 
 model Category {
-  id       String     @id @default(auto()) @map("_id") @db.ObjectId
-  name     String
-  analysis Analysis[]
+  id   String @id @default(auto()) @map("_id") @db.ObjectId
+  name String
+
+  analyses Analysis[]
+}
+
+model Prescription {
+  id     String @id @default(auto()) @map("_id") @db.ObjectId
+  userId String @db.ObjectId
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  tests Test[]
+}
+
+model Test {
+  id             String @id @default(auto()) @map("_id") @db.ObjectId
+  prescriptionId String @db.ObjectId
+
+  prescription Prescription @relation(fields: [prescriptionId], references: [id], onDelete: Cascade)
+
+  results TestResult[]
+}
+
+model TestResult {
+  id     String @id @default(auto()) @map("_id") @db.ObjectId
+  testId String @db.ObjectId
+  name   String
+  value  String
+
+  test Test @relation(fields: [testId], references: [id], onDelete: Cascade)
 }
 
 enum ROLE {
