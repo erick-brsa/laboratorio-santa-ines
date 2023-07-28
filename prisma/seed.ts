@@ -1,21 +1,19 @@
 import { PrismaClient } from '@prisma/client'
 const prisma = new PrismaClient()
 
-import bcrypt from 'bcrypt';
+import { users, catalogue, categories } from './data';
 
-const users = [
-	{
-		role: 'receptionist',
-		name: 'Erick',
-		lastname: 'Briones',
-		username: 'erick-brsa',
-		email: 'briones@gmail.com',
-		password: bcrypt.hashSync('password', 12)
-	}
-];
 
 const main = async () => {
-	await prisma.user.createMany({ data: users });
+	// await prisma.user.createMany({
+	// 	data: users
+	// });
+	// await prisma.category.createMany({
+	// 	data: categories
+	// })
+	await prisma.analysis.createMany({
+		data: catalogue
+	})
 };
 
 main()

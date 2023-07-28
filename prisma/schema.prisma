@@ -12,13 +12,14 @@ datasource db {
 
 model User {
   id            String    @id @default(auto()) @map("_id") @db.ObjectId
-  role          String    @default("client")
+  role          ROLE      @default(CLIENT)
   name          String?
   lastname      String?
-  username      String?   @unique 
+  username      String?   @unique
   email         String?   @unique
   password      String?
   image         String?
+  phoneNumber   String?   @unique
   emailVerified DateTime?
   createdAt     DateTime  @default(now())
   updatedAt     DateTime  @updatedAt
@@ -52,4 +53,29 @@ model Session {
   userId       String   @db.ObjectId
   expires      DateTime
   user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model Analysis {
+  id                String @id @default(auto()) @map("_id") @db.ObjectId
+  name              String
+  primary_sample    String
+  recipent          String
+  days_for_delivery String
+  price             Int?
+  conditions        String
+  categoryId        String @db.ObjectId
+
+  category Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+}
+
+model Category {
+  id       String     @id @default(auto()) @map("_id") @db.ObjectId
+  name     String
+  analysis Analysis[]
+}
+
+enum ROLE {
+  CLIENT
+  RECEPTIONIST
+  LABORATORY_ANALYST
 }
