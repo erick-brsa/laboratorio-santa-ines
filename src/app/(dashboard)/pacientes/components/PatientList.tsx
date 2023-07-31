@@ -245,7 +245,7 @@ const PatientList: FC<PatientListProps> = ({ patients }) => {
 
 	return (
 		<table className="min-w-full divide-y divide-gray-200">
-			<thead className="bg-white">
+			<thead className="bg-gray-100">
 				<tr>
 					{/* <th scope="col" className="py-3 px-4 pr-0">
 						<div className="flex items-center h-5">

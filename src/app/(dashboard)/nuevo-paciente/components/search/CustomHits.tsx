@@ -28,7 +28,7 @@ const Hits: FC<HitsProps> = ({ hits, setAnalysis, analysis }) => {
 	};
 
 	return (
-		<div className="grid grid-cols-1 lg:grid-cols-3 2xl:grid-cols-4 gap-4 my-4 md:my-6">
+		<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 gap-4 my-4 md:my-6">
 			{hits.map((hit: any) => (
 				<article
 					onClick={() => handleClick(hit)}

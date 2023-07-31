@@ -1,5 +1,5 @@
+import { getCatalogue } from '@/database/dbAnalyses';
 import { NextResponse } from 'next/server';
-import { getCatalogue } from '@/database/dbAnalysis';
 
 export async function GET(request: Request) {
 	try {
