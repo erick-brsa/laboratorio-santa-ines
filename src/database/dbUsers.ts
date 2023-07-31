@@ -25,3 +25,36 @@ export const checkUserEmailPassword = async (
 		lastname
 	};
 };
+
+export const getAllPatients = async () => {
+	const patients = await prisma.user.findMany({
+		where: {
+			role: 'CLIENT'
+		},
+		select: {
+			id: true,
+			name: true,
+			lastname: true,
+			phoneNumber: true,
+			role: true
+		}
+	});
+	return patients;
+};
+
+export const getSomePatients = async (skip: number, take: number) => {
+	const patients = await prisma.user.findMany({
+		skip,
+		take,
+		where: {
+			role: 'CLIENT'
+		},
+		select: {
+			id: true,
+			name: true,
+			lastname: true,
+			phoneNumber: true,
+			role: true
+		}
+	});
+};

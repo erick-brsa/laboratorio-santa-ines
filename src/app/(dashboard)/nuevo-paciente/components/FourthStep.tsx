@@ -53,14 +53,15 @@ const FourthStep: FC<FourthStepProps> = ({
 			<div>
 				<h3 className="font-semibold">Monto a pagar: ${total}</h3>
 			</div>
-			<div className="my-6 grid md:grid-cols-2 md:gap-x-6 max-w-lg">
+			<div className="my-6 grid md:grid-cols-2 gap-6 max-w-lg ">
 				<div className="grid">
 					<button
+						type="button"
 						onClick={() => handleChangeStatus('PENDING')}
-						className={`px-6 py-2 text-yellow-500 font-semibold leading-6 text-center uppercase transition bg-transparent border-2 border-yellow-500 rounded ${
+						className={`px-6 py-2 text-yellow-500 font-semibold leading-6 text-center uppercase transition border-2 border-yellow-500 rounded ${
 							status === 'PENDING'
 								? 'bg-orange-100 border-yellow-600 text-yellow-600'
-								: 'hover:bg-orange-100'
+								: ' bg-transparent hover:bg-orange-100'
 						}`}
 					>
 						Pendiente
@@ -68,11 +69,12 @@ const FourthStep: FC<FourthStepProps> = ({
 				</div>
 				<div className="grid">
 					<button
+						type="button"
 						onClick={() => handleChangeStatus('PAID')}
-						className={`px-6 py-2 text-green-500 font-semibold leading-6 text-center uppercase transition bg-transparent border-2 border-green-500 rounded ${
+						className={`px-6 py-2 text-green-500 font-semibold leading-6 text-center uppercase transition border-2 border-green-500 rounded ${
 							status === 'PAID'
 								? 'bg-green-100 border-green-600 text-green-600'
-								: ' hover:bg-green-100'
+								: 'bg-transparent hover:bg-green-100'
 						}`}
 					>
 						Pagado
