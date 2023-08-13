@@ -1,25 +1,8 @@
-import { FC } from 'react';
+import { useNewUser } from '@/hooks';
 
-interface Analysis {
-	id: string;
-	name: string;
-	price: number;
-}
+const ThirdStep = () => {
+	const { total, user, analyses, clinic, setStep } = useNewUser();
 
-interface ThirdStepProps {
-	setStep: (step: number) => void;
-	user: {
-		name: string;
-		lastname: string;
-		email: string;
-		phoneNumber: string;
-		clinic: string;
-	};
-	analysis: Analysis[];
-}
-
-const ThirdStep: FC<ThirdStepProps> = ({ user, setStep, analysis }) => {
-	const total = analysis.map(a => a.price).reduce((a, b) => a+b, 0)
 	return (
 		<div className="mt-4 md:mt-6">
 			<h2 className="my-4 font-semibold">Resumen</h2>
@@ -30,12 +13,12 @@ const ThirdStep: FC<ThirdStepProps> = ({ user, setStep, analysis }) => {
 					<p>Nombre: {`${user.name} ${user.lastname}`}</p>
 					<p>Teléfono: {user.phoneNumber}</p>
 					<p>Correo electrónico: {user.email}</p>
-					<p>Clínica: {user.clinic}</p>
+					<p>Clínica: {clinic}</p>
 				</div>
 				<div className="mt-6 md:mt-0">
 					<h3 className="font-semibold mb-2">Análisis a realizar</h3>
 					<div className="flex flex-col gap-4">
-						{analysis.map(a => (
+						{analyses.map(a => (
 							<article
 								key={a.id}
 								className="bg-gray-100 p-4 shadow rounded"
@@ -45,7 +28,7 @@ const ThirdStep: FC<ThirdStepProps> = ({ user, setStep, analysis }) => {
 							</article>
 						))}
 						<div>
-						<p>Total a pagar: ${total}</p>
+							<p>Total a pagar: ${total}</p>
 						</div>
 					</div>
 				</div>

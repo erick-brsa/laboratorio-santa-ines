@@ -1,28 +1,10 @@
 'use client';
 
-import { FC, Dispatch, SetStateAction } from 'react';
+import { useNewUser } from '@/hooks';
 import { toast } from 'react-toastify';
 
-interface Analysis {
-	id: string;
-	name: string;
-	price: number;
-}
-
-interface FourthStepProps {
-	analysis: Analysis[];
-	setStep: (step: number) => void;
-	status: string;
-	setStatus: Dispatch<SetStateAction<string>>;
-}
-
-const FourthStep: FC<FourthStepProps> = ({
-	analysis,
-	setStep,
-	status,
-	setStatus
-}) => {
-	const total = analysis.map(a => a.price).reduce((a, b) => a + b, 0);
+const FourthStep = () => {
+	const { total, status, setStep, setStatus, saveUser } = useNewUser();
 
 	const handleChangeStatus = (newStatus: string) => {
 		if (status === newStatus) {
@@ -32,17 +14,8 @@ const FourthStep: FC<FourthStepProps> = ({
 	};
 
 	const handleSave = () => {
-		toast('🚀 ¡Registro guardado!', {
-			position: 'bottom-right',
-			autoClose: 5000,
-			hideProgressBar: false,
-			closeOnClick: true,
-			pauseOnHover: true,
-			draggable: true,
-			progress: undefined,
-			theme: 'dark'
-		});
-		setStep(0)
+		saveUser();
+		// setStep(0);
 	};
 
 	return (
@@ -92,7 +65,7 @@ const FourthStep: FC<FourthStepProps> = ({
 			</div>
 			<div className="flex gap-4">
 				<button
-					onClick={() => setStep(0)}
+					onClick={() => setStep(2)}
 					type="button"
 					className="w-full text-white bg-blue-600 hover:bg-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
 				>

@@ -25,8 +25,8 @@ model User {
   updatedAt     DateTime  @updatedAt
 
   prescriptions Prescription[]
-  accounts     Account[]
-  sessions     Session[]
+  accounts      Account[]
+  sessions      Session[]
 }
 
 model Account {
@@ -54,7 +54,7 @@ model Session {
   userId       String   @db.ObjectId
   expires      DateTime
 
-  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
 }
 
 model Analysis {
@@ -68,6 +68,8 @@ model Analysis {
   categoryId        String @db.ObjectId
 
   category Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+
+  tests Test[]
 }
 
 model Category {
@@ -80,6 +82,8 @@ model Category {
 model Prescription {
   id     String @id @default(auto()) @map("_id") @db.ObjectId
   userId String @db.ObjectId
+  status String
+  clinic String?
 
   user User @relation(fields: [userId], references: [id], onDelete: Cascade)
 
@@ -88,9 +92,11 @@ model Prescription {
 
 model Test {
   id             String @id @default(auto()) @map("_id") @db.ObjectId
+  analysisId     String @db.ObjectId
   prescriptionId String @db.ObjectId
 
   prescription Prescription @relation(fields: [prescriptionId], references: [id], onDelete: Cascade)
+  analysis     Analysis     @relation(fields: [analysisId], references: [id], onDelete: Cascade)
 
   results TestResult[]
 }

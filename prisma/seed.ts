@@ -1,19 +1,20 @@
-import { PrismaClient } from '@prisma/client'
-const prisma = new PrismaClient()
+import { PrismaClient } from '@prisma/client';
+const prisma = new PrismaClient();
 
 import { users, catalogue, categories } from './data';
 
-
 const main = async () => {
-	// await prisma.user.createMany({
-	// 	data: users
+	await prisma.user.createMany({
+		data: users
+	});
+
+	await prisma.category.createMany({
+		data: categories
+	});
+
+	// await prisma.analysis.createMany({
+	// 	data: catalogue
 	// });
-	// await prisma.category.createMany({
-	// 	data: categories
-	// })
-	await prisma.analysis.createMany({
-		data: catalogue
-	})
 };
 
 main()

@@ -1,13 +1,10 @@
 'use client';
 
-import { FC } from 'react';
+import { useNewUser } from "@/hooks";
 
-interface StepperProps {
-	step: number;
-	setStep: (step: number) => void;
-}
+const Stepper = () => {
+	const { step, setStep } = useNewUser();
 
-const Stepper: FC<StepperProps> = ({ step, setStep }) => {
 	return (
 		<ol className="flex items-center w-full text-sm font-medium text-center text-gray-500 sm:text-base">
 			<li

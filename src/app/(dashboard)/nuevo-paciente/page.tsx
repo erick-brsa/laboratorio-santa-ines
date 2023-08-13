@@ -1,3 +1,4 @@
+import { NewUserProvider } from '@/context';
 import NewUserForm from './components/NewUserForm';
 
 export const metadata = {
@@ -11,7 +12,9 @@ export default function NuevoPaciente() {
 				Nuevo paciente
 			</h1>
 			<div className="mt-4 md:mt-6">
-				<NewUserForm />
+				<NewUserProvider>
+					<NewUserForm />
+				</NewUserProvider>
 			</div>
 		</div>
 	);

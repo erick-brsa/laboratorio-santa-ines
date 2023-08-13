@@ -6,7 +6,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 330,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: '17 ALFA HIDROXIPROGESTERONA (NEONATAL)',
@@ -16,7 +16,7 @@ export const catalogue = [
 		price: 330,
 		conditions:
 			'TOMAR DESPUÉS DE LA SEGUNDA TOMA DE LECHE Ó A LAS 48HRS DE NACIMIENTO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: '17 CETOESTEROIDES',
@@ -25,7 +25,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 700,
 		conditions: 'ORINA DE 24 HRS. REFRIGERAR DURANTE LA RECOLECCIÓN',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: '17 HIDROXICORTICOESTEROIDES',
@@ -34,7 +34,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 720,
 		conditions: 'ORINA DE 24 HRS. REFRIGERAR DURANTE LA RECOLECCIÓN',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ACETAMINOFEN',
@@ -43,7 +43,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 1000,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ACIDO MICOFENOLICO',
@@ -52,7 +52,7 @@ export const catalogue = [
 		days_for_delivery: '13 (CONSULTAR)',
 		price: 1140,
 		conditions: 'AYUNO 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ACIDO DELTA AMINOLEVULINICO',
@@ -62,7 +62,7 @@ export const catalogue = [
 		price: 1050,
 		conditions:
 			'ORINA 24 HRS. RECOLECTAR EN FRASCO OSCURO, REFRIGERAR DURANTE LA RECOLECCIÓN',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ACIDO FOLICO',
@@ -71,7 +71,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 330,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ACIDO LACTICO',
@@ -80,7 +80,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 230,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ACIDO URICO SERICO',
@@ -89,7 +89,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 90,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ACIDO URICO URINARIO',
@@ -98,7 +98,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 90,
 		conditions: 'ORINA SIN ÁCIDO. REFRIGERAR',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ACIDO VANILMANDELICO',
@@ -108,7 +108,7 @@ export const catalogue = [
 		price: 950,
 		conditions:
 			'NO CONSUMIR CHOCOLATE Y PRODUCTOS CON VAINILLA, MÍNIMO 3 DÍAS ANTES DE LA RECOLECCIÓN DE MUESTRA.',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ACIDO VALPROICO (VALPROATO DE MAGNESIO)',
@@ -117,7 +117,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 330,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ACIDO GRASOS LIBRES',
@@ -126,7 +126,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 1000,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ACTIVIDAD TRIPTICA DE HECES',
@@ -135,7 +135,7 @@ export const catalogue = [
 		days_for_delivery: '1 (CONSULTAR)',
 		price: 250,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ADENOSIN DEAMINASA',
@@ -144,7 +144,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 940,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ADENOVIRUS (BUSQUEDA DE ANTIGENO)',
@@ -153,7 +153,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 390,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ALANINO AMINOTRANFERASA ( ALAT) (TGP)',
@@ -162,7 +162,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 120,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ALBUMINA SERICA',
@@ -171,7 +171,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 130,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ALBUMINA URINARIA Ó MICROALBUMINURIA',
@@ -181,7 +181,7 @@ export const catalogue = [
 		price: 260,
 		conditions:
 			'ORINA DE 24 HRS. SIN ÁCIDO, REFRIGERAR DURANTE LA RECOLECCIÓN',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ALCOHOL ETILICO EN ORINA',
@@ -190,7 +190,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 400,
 		conditions: 'ORINA ESPONTÁNEA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ALCOHOL ETILICO EN SANGRE',
@@ -199,7 +199,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 400,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ALDOLASA',
@@ -208,7 +208,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 480,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ALDOSTERONA (SUERO)',
@@ -217,7 +217,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 550,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ALDOSTERONA (ORINA)',
@@ -226,7 +226,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 550,
 		conditions: 'ORINA 24 HRS. REFRIGERAR DURANTE LA RECOLECCIÓN',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ALFA 1- ANTITRIPSINA',
@@ -235,7 +235,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 800,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ALFAFETOPROTEINA (AFP)',
@@ -244,7 +244,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 350,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AMIBA EN FRESCO',
@@ -253,7 +253,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 110,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AMIBA EN FRESCO Y CELULARIDAD EN MOCO FECAL',
@@ -262,7 +262,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 190,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AMIBAS EN VIDA LIBRE, BUSQUEDA MICROSCOPICA',
@@ -271,7 +271,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 220,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AMILASA SERICA',
@@ -280,7 +280,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 170,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AMILASA URINARIA',
@@ -289,7 +289,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 190,
 		conditions: 'ORINA DE 2 HORAS. RECOLECTAR TODA LA ORINA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANDROSTENEDIONA ',
@@ -298,7 +298,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 350,
 		conditions: 'AYUNO 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANFETAMINAS (CUALITATIVA)',
@@ -307,7 +307,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 140,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANFETAMINAS (CUANTITATIVA)',
@@ -316,7 +316,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 270,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICOAGULANTE LUPICO ',
@@ -325,7 +325,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 850,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC ANTI Ag "c" TOTAL DE HEPATITIS "B"',
@@ -334,7 +334,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 480,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC ANTI Ag "c" IgM HEPATITIS B',
@@ -343,7 +343,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 480,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC ANTI Ag "e" DE HEPATITIS B',
@@ -352,7 +352,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 550,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC ANTI Ag "s" DE HEPATITIS B',
@@ -361,7 +361,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 520,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI AMIBA (SERAMEBA) ',
@@ -370,7 +370,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 430,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI ANTIGENO AVIARIO ',
@@ -379,7 +379,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 750,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI CITOPLASMA DE NEUTROFILO P (P-ANCA) ',
@@ -388,7 +388,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 850,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI CITOPLASMA DE NEUTROFILO C (C-ANCA) ',
@@ -397,7 +397,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 850,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI CITOPLASMA DE NEUTROFILO ',
@@ -406,7 +406,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 850,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI RECEPTORES ACETIL COLINA ',
@@ -415,7 +415,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 1230,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC ANTI VARICELA IgG E IgM ',
@@ -424,7 +424,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 1050,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS IgG ANTI Brucella (2 Mercaptoetanol ) ',
@@ -433,7 +433,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 460,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI BETA 2 GLICOPROTEINA 1 (B2GP1) ',
@@ -442,7 +442,7 @@ export const catalogue = [
 		days_for_delivery: '10 (CONSULTAR)',
 		price: 1000,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI ASPERGILLUS SPP TOTALES ',
@@ -451,7 +451,7 @@ export const catalogue = [
 		days_for_delivery: '11 (CONSULTAR)',
 		price: 2000,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI BLASTOMYCES IgE ',
@@ -460,7 +460,7 @@ export const catalogue = [
 		days_for_delivery: '12',
 		price: 3000,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI BORRELLIA BURGDORFERI (IgG, IgM)',
@@ -469,7 +469,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 980,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI CARDIOLIPINA IgG IgM ',
@@ -478,7 +478,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 590,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI CENTROMERO ',
@@ -487,7 +487,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 610,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI CHINKUNGUNYA IGM, IGG',
@@ -496,7 +496,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 650,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI CHLAMYDIA PNEUMONIAE',
@@ -505,7 +505,7 @@ export const catalogue = [
 		days_for_delivery: '10',
 		price: 2150,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI CHLAMYDIA TRACHOMATIS IgA ',
@@ -514,7 +514,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 650,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI CHLAMYDIA TRACHOMATIS IgG',
@@ -523,7 +523,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 570,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI CHLAMYDIA TRACHOMATIS IgM ',
@@ -532,7 +532,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 500,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI CISTICERCO EN LCR',
@@ -541,7 +541,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 470,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI CISTICERCO EN SUERO (AC. ANTI TAENIA SAGINATA Y TAENIA SOLIUM)',
@@ -550,7 +550,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 470,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI CITOMEGALOVIRUS IgG ',
@@ -559,7 +559,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 420,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI CITOMEGALOVIRUS IgM ',
@@ -568,7 +568,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 420,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI COXSACKIE TIPO A2,A4,A7,A9,A10,A16 EN LCR',
@@ -577,7 +577,7 @@ export const catalogue = [
 		days_for_delivery: '14 (CONSULTAR)',
 		price: 4990,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI COCCIDIOIDES IMMITIS IgM ',
@@ -586,7 +586,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 1100,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI COXSACKIE TIPO A2,A4,A7,A9,A10,A16 ',
@@ -595,7 +595,7 @@ export const catalogue = [
 		days_for_delivery: '14 (CONSULTAR)',
 		price: 3100,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI DENGUE (IgG, IgM)',
@@ -604,7 +604,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 700,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI DNA DOBLE CADENA (NATIVO) ',
@@ -613,7 +613,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 470,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI DNA UNA CADENA (DESNATURALIZADO) ',
@@ -622,7 +622,7 @@ export const catalogue = [
 		days_for_delivery: '1 (CONSULTAR)',
 		price: 470,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI ECHOVIRUS EN LCR',
@@ -631,7 +631,7 @@ export const catalogue = [
 		days_for_delivery: '17',
 		price: 5000,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI ECHOVIRUS IGM SUERO',
@@ -640,7 +640,7 @@ export const catalogue = [
 		days_for_delivery: '14',
 		price: 4600,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI ENA (RNP, SCL70, SM,RO,LA)',
@@ -649,7 +649,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 1460,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI EPSTEIN BARR (4 MARCADORES)',
@@ -658,7 +658,7 @@ export const catalogue = [
 		days_for_delivery: '2',
 		price: 1500,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI EPSTEIN BAAR Ag DE CAPSIDE IgG (CUANTITATIVOS) (VCA-G)',
@@ -667,7 +667,7 @@ export const catalogue = [
 		days_for_delivery: '2',
 		price: 490,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI EPSTEIN BAAR Ag DE CAPSIDE IgM (CUANTITATIVOS) (EBV-M) ',
@@ -676,7 +676,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 490,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI EPSTEIN BAAR Ag TEMPRANO IgG (CUANTITATIVOS) (EA) ',
@@ -685,7 +685,7 @@ export const catalogue = [
 		days_for_delivery: '2',
 		price: 490,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI EPSTEIN BARR Ag NUCLEAR IgG (CUANTITATIVOS) (ENBA-IgG) ',
@@ -694,7 +694,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 490,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI FOSFOLIPIDOS (IgG. IgM)',
@@ -703,7 +703,7 @@ export const catalogue = [
 		days_for_delivery: '2',
 		price: 1100,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI GAD (ACIDO GLUTAMICO) ',
@@ -712,7 +712,7 @@ export const catalogue = [
 		days_for_delivery: '13',
 		price: 1210,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI GLIADINA IgA e IgG',
@@ -721,7 +721,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 710,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI HELICOBACTER PYLORI (IgG/ IgM/ IgA) ',
@@ -730,7 +730,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 450,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI HEPATITIS "A" TOTALES (IgM)',
@@ -739,7 +739,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 470,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI HEPATITIS "C" TOTALES ',
@@ -748,7 +748,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 470,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI HEPATITIS A (HAVA IgM) (HAVA IgG) ',
@@ -757,7 +757,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 480,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. AG "C" TOTAL HEPATITIS B',
@@ -766,7 +766,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 480,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. AG "C" IgM HEPATITIS B',
@@ -775,7 +775,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 480,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI HEPATITIS D',
@@ -784,7 +784,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 590,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI HERPES 1 IgG / IgM ',
@@ -793,7 +793,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 390,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI HERPES 2 IgG / IgM ',
@@ -802,7 +802,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 390,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI HERPES ZOSTER IgG (VARICELA IgG)',
@@ -811,7 +811,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 1950,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI HISTONA ',
@@ -820,7 +820,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 930,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI HISTOPLASMA CAPSULATUM IgM ',
@@ -829,7 +829,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 1250,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI INSULINA (TOTALES) ',
@@ -838,7 +838,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 850,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI ISLOTES DE LANGERHANS ',
@@ -847,7 +847,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 1100,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI Jo-1 ',
@@ -856,7 +856,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 680,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC.ANTI LKM MICROSOMALES (HIGADO / RIÑÓN)',
@@ -865,7 +865,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 800,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI LEISHMANIA EN SUERO ',
@@ -874,7 +874,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 3700,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI LEPTOSPIRA (IgG E IgM)',
@@ -883,7 +883,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 850,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI LC1 (CITOSOL HEPATICO TIPO 1)',
@@ -892,7 +892,7 @@ export const catalogue = [
 		days_for_delivery: '7 (CONSULTAR)',
 		price: 870,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI MEMBRANA BASAL GLOMERULAR',
@@ -901,7 +901,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 900,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ALERGENOS C/UNO ',
@@ -910,7 +910,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 920,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI MITOCONDRIA (AMA-M2)',
@@ -919,7 +919,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 560,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI MUSCULO LISO ',
@@ -928,7 +928,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 560,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI MYCOPLASMA PNEUMONIAE (IgG e IgM) ',
@@ -937,7 +937,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 1100,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI MYCOBACTERIUM TUBERCULOSIS (IgG / IgM) ',
@@ -946,7 +946,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 650,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI NUCLEARES (CUALITATIVO) ',
@@ -955,7 +955,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 430,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI NUCLEARES (CUANTITATIVO POR TITULACION)',
@@ -964,7 +964,7 @@ export const catalogue = [
 		days_for_delivery: '2',
 		price: 670,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI NUCLEOSOMAS ',
@@ -973,7 +973,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 870,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI PAROTIDITIS IgG E IgM',
@@ -982,7 +982,7 @@ export const catalogue = [
 		days_for_delivery: '10',
 		price: 1100,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI PARVOVIRUS B 19 (IgG e IgM) ',
@@ -991,7 +991,7 @@ export const catalogue = [
 		days_for_delivery: '14',
 		price: 1400,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI PEROXIDASA (MICROSOMALES) ',
@@ -1000,7 +1000,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 550,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI PEPTIDO CICLICO CITRUNILADO ',
@@ -1009,7 +1009,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 810,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI PLAQUETAS ',
@@ -1018,7 +1018,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 1620,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI RECEPTORES DE TSH',
@@ -1027,7 +1027,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 1980,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI RICKETSIA (IgG e IgM) ',
@@ -1036,7 +1036,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 2420,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI RNP ',
@@ -1045,7 +1045,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 650,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI RUBEOLA IgG ',
@@ -1054,7 +1054,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 410,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI RUBEOLA IgM ',
@@ -1063,7 +1063,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 410,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI SARAMPION (IgG,IgM) ',
@@ -1072,7 +1072,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 1150,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI SCL-70 (ANTI ESCLERODERMIA) ',
@@ -1081,7 +1081,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 550,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI SMITH (Sm) ',
@@ -1090,7 +1090,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 510,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI SSA (Ro)',
@@ -1099,7 +1099,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 530,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI SSB (La) ',
@@ -1108,7 +1108,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 530,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI TIROGLOBULINAS ',
@@ -1117,7 +1117,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 540,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC ANTI TIROIDES CUANTITATIVOS (AC. ANTIMICROSOMALES AC.ANTI TIROGLOBULINAS) ',
@@ -1126,7 +1126,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 900,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI TOXOCARA CANIS (IgG) ',
@@ -1135,7 +1135,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 700,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI TOXOPLASMA GONDII (IgG) ',
@@ -1144,7 +1144,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 410,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI TOXOPLASMA GONDII (IgM) ',
@@ -1153,7 +1153,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 410,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI TREPONEMA PALLIDUM (FLUORECENTE) CUALITATIVOS',
@@ -1162,7 +1162,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 750,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI TREPONEMA PALLIDUM (QUIMIOLUMINISCENCIA)',
@@ -1171,7 +1171,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 490,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ANTI TRANSGLUTAMINASA ',
@@ -1180,7 +1180,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 1000,
 		conditions: 'AYUNO DE 6 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS ANTI TRYPANOSOMA CRUZI (TOTALES) ',
@@ -1189,7 +1189,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 570,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ASTROVIRUS',
@@ -1198,7 +1198,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 390,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HEPATITIS B (HBC)',
@@ -1207,7 +1207,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 610,
 		conditions: 'AYUNO 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AC. ENDOMECIALES ',
@@ -1216,7 +1216,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 790,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS HETEROFILOS (PAUL BUNELL) ',
@@ -1225,7 +1225,7 @@ export const catalogue = [
 		days_for_delivery: '1 (CONSULTAR)',
 		price: 390,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS TOTALES ANTI BRUCELLA (ROSA DE BENGALA) ',
@@ -1234,7 +1234,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 180,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTICUERPOS TOTALES ANTI BRUCELLA (AGLUTINACION ESTANDAR) ',
@@ -1243,7 +1243,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 440,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIESTREPTOLISINAS (AEL O ASLO CUANTIFICACION) ',
@@ -1252,7 +1252,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 220,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO CARCINOEMBRIONARIO (CEA) ',
@@ -1261,7 +1261,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 350,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO E HEPATITIS "B" (HBe) ',
@@ -1270,7 +1270,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 610,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO CA 125 (OVARIO)',
@@ -1279,7 +1279,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 420,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO CA 15-3 (MAMA) ',
@@ -1288,7 +1288,7 @@ export const catalogue = [
 		days_for_delivery: '2',
 		price: 480,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO CA 19-9 (PANCREAS Y COLON) ',
@@ -1297,7 +1297,7 @@ export const catalogue = [
 		days_for_delivery: '2',
 		price: 480,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO CA-21 (PULMON) ',
@@ -1306,7 +1306,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 1200,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO CA 27-29 ',
@@ -1315,7 +1315,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 1350,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO CA 72-4 (ESTOMAGO) ',
@@ -1324,7 +1324,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 1000,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO HE4',
@@ -1333,7 +1333,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 850,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO HE4 Y ANTIGENO CA 125 (INDICE ROMA)',
@@ -1342,7 +1342,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 1270,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO DE CRYPTOCOCCUS NEOFORMANS EN LCR',
@@ -1351,7 +1351,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 900,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO DE GIARDIA LAMBLIA ',
@@ -1360,7 +1360,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 480,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO CRYPTOSPORIDIUM',
@@ -1369,7 +1369,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 390,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO DE HELICOBACTER PYLORI EN HECES ',
@@ -1378,7 +1378,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 550,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO DE HISTOCOMPATIBILIDAD HLA B27 ',
@@ -1387,7 +1387,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 980,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO SOLUBLE EN HIGADO (SLA/LP)',
@@ -1396,7 +1396,7 @@ export const catalogue = [
 		days_for_delivery: '14 (CONSULTAR)',
 		price: 1950,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO DE SUPERFICIE (HbsAg)(Ag Australia) (Hep. B)',
@@ -1405,7 +1405,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 410,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO ENTAMOEBA HISTOLYTICA EN HECES ',
@@ -1414,7 +1414,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 560,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO P24 DE HIV 1 ',
@@ -1423,7 +1423,7 @@ export const catalogue = [
 		days_for_delivery: '6 (CONSULTAR)',
 		price: 900,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO PROSTATICO ESPECIFICO (APE)',
@@ -1432,7 +1432,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 310,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO PROSTATICO LIBRE (APL)',
@@ -1441,7 +1441,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 400,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ANTIGENO NS1 PARA DENGUE',
@@ -1450,7 +1450,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 660,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'APOLIPOPROTEINAS A1 ',
@@ -1459,7 +1459,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 410,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'APOLIPOPROTEINAS A1 Y B (APO A1 Y B) ',
@@ -1468,7 +1468,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 620,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'APOLIPOPROTEINAS B ',
@@ -1477,7 +1477,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 410,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ARSENICO EN ORINA ',
@@ -1486,7 +1486,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 1060,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ARSENICO EN SUERO ',
@@ -1495,7 +1495,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 1290,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ASPARTATO AMINO TRANSFERASA (TGO) (ASAT) ',
@@ -1504,7 +1504,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 120,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ALALINA AMINO TRANSFERASA (TGP) (ALAT)',
@@ -1513,7 +1513,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 120,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'AZUCARES REDUCTORES Y Ph ',
@@ -1522,7 +1522,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 90,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'BANDA OLIGOCLONALES EN LCR ',
@@ -1532,7 +1532,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 2550,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'BACILOSCOPIA (BAAR) (ORINA O ESPECTORACION) ',
@@ -1541,7 +1541,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 100,
 		conditions: 'SIN ASEO BUCAL ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'BARBITURICOS (ORINA) ',
@@ -1550,7 +1550,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 220,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'BENZODIAZEPINAS (ORINA) ',
@@ -1559,7 +1559,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 220,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'BETA 2 GLICOPROTEINA IgG, IgM, IgA ',
@@ -1568,7 +1568,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 2550,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'BETA 2 MICROGLOBULINA (ORINA) ',
@@ -1578,7 +1578,7 @@ export const catalogue = [
 		price: 440,
 		conditions:
 			'RECOLECTAR ORINA DE 1 HORA SIN ACIDO REFRIGERAR DURANTE LA RECOLECCION ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'BETA 2 MICROGLOBULINA (SUERO) ',
@@ -1587,7 +1587,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 550,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'B-HGC CUALITATIVA ',
@@ -1596,7 +1596,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 120,
 		conditions: 'NO REQUIERE AYUNO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'B-HGC CUANTITATIVA (FRACCION B-HCG) ',
@@ -1605,7 +1605,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 270,
 		conditions: 'NO REQUIERE AYUNO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'BICARBONATOS EN ORINA ',
@@ -1615,7 +1615,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 620,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'BICARBONATOS EN SANGRE ',
@@ -1625,7 +1625,7 @@ export const catalogue = [
 		price: 610,
 		conditions:
 			'AYUNO DE 8 HORAS MISMAS CONDICIONES QUE PARA UNA GASOMETRIA (ESTABILIDAD DE LA MUESTRA MENOR A UNA HORA) ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'BILIRRUBINAS (TOTAL, DIRECTA E INDIRECTA) ',
@@ -1634,7 +1634,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 190,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'BIOMETRIA HEMATICA (HEMOGRAMA / FROTIS DE SANGRE PERIFÉRICA)',
@@ -1643,7 +1643,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 210,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'BUN (NITROGENO UREICO EN ORINA) ',
@@ -1652,7 +1652,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 80,
 		conditions: 'ORINA SIN ACIDO REFRIGERAR',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'BUN (NITROGENO UREICO EN SANGRE) ',
@@ -1661,7 +1661,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 80,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CADENAS LIGERAS KAPPA / LAMBDA EN SANGRE, CADENAS KAPPA, LAMBDA, RELACIÓN KAPPA / LAMBDA',
@@ -1670,7 +1670,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 1150,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CADENAS LIGERAS KAPPA / LABDA EN ORINA, CADENAS KAPPA, LAMBDA, RELACIÓN KAPPA / LAMBDA',
@@ -1679,7 +1679,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 1150,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CALCIO IONIZADO ',
@@ -1688,7 +1688,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 560,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CALCIO SERICO (Ca) ',
@@ -1697,7 +1697,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 140,
 		conditions: 'AYUNO DE 8 HORAS TOMAR POR LA MAÑANA ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CALCIO URINARIO ',
@@ -1706,7 +1706,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 140,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CALCULO RENAL FISICOQUIMICO *',
@@ -1715,7 +1715,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 440,
 		conditions: 'SIN INDICACION ESPECIAL',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CALCULO BILIAR FISICOQUIMICO *',
@@ -1724,7 +1724,7 @@ export const catalogue = [
 		days_for_delivery: '3 (CONSULTAR)',
 		price: 440,
 		conditions: 'SIN INDICACION ESPECIAL',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CALCIO URINARIO DE 24 HORAS ',
@@ -1734,7 +1734,7 @@ export const catalogue = [
 		price: 140,
 		conditions:
 			'ORINA DE 24 HORAS SIN ACIDO REFRIGERAR DURANTE LA RECOLECCION ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CALCITONINA ',
@@ -1743,7 +1743,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 590,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CALPROTECTIN-LACTOFERRIN',
@@ -1752,7 +1752,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 590,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CANABINOIDES (MARIHUANA) CUALITATIVOS ',
@@ -1761,7 +1761,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 140,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CANABINOIDES (MARIHUANA) CUANTIFICACION ',
@@ -1770,7 +1770,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 390,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CAPACIDAD TOTAL DE FIJACION DE HIERRO ',
@@ -1779,7 +1779,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 340,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CAPTACION DE T3 (TRIYODOTIRONINA) ',
@@ -1788,7 +1788,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 250,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CARBAMAZEPINA (TREGETOL) ',
@@ -1797,7 +1797,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 390,
 		conditions: 'AYUNO DE 8 HORAS Y ANTES DE LA SIGUIENTE DOSIS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CARBOXIHEMOGLOBINA ',
@@ -1806,7 +1806,7 @@ export const catalogue = [
 		days_for_delivery: '2',
 		price: 970,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CARGA VIRAL PARA HEPATITIS B (DNA-VHB) ',
@@ -1815,7 +1815,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 4800,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CARGA VIRAL PARA HEPATITIS C (RNA/VHC) ',
@@ -1824,7 +1824,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 4680,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CARGA VIRAL PARA HIV-I',
@@ -1833,7 +1833,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 3050,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CARIOTIPO EN LINFOCITOS DE SANGRE PERIFERICA ',
@@ -1844,7 +1844,7 @@ export const catalogue = [
 		price: 6450,
 		conditions:
 			'AYUNO RELATIVO, PUEDE TOMAR JUGO, TE, YOGURT, GELATINA Y FRUTA (NO GRASAS NI CONDIMENTOS). EN CASO DE TOMAR MEDICAMENTO, INDICAR CUÁL Y QUÉ TIEMPO TIENE TOMANDOLO.',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CAROTENOS ',
@@ -1854,7 +1854,7 @@ export const catalogue = [
 		price: 500,
 		conditions:
 			'AYUNO DE 8 HORAS. NO CONSUMIR RETINOL O VITAMINA A, MÍNIMO 48 HORAS PREVIAS A LA TOMA DE MUESTRA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CELULAS L E ',
@@ -1864,7 +1864,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 250,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CERULOPLASMINA ',
@@ -1873,7 +1873,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 800,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CIANURO',
@@ -1882,7 +1882,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 770,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CICLOSPORINA',
@@ -1891,7 +1891,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 1100,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CISTATINA "C" ',
@@ -1900,7 +1900,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 650,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CITOLOGIA EN MOCO FECAL (CMF) Y AMIBA EN FRESCO ',
@@ -1909,7 +1909,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 190,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CITOQUIMICO DE LIQUIDO BRONQUIAL ',
@@ -1918,7 +1918,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 590,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CITOQUIMICO DE LIQUIDO CEFALORRAQUIDEO ',
@@ -1927,7 +1927,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 590,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CITOQUIMICO DE LIQUIDO DE ASCITIS O PERITONEAL ',
@@ -1936,7 +1936,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 590,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CITOQUIMICO DE LIQUIDO DE DIALISIS ',
@@ -1945,7 +1945,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 590,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CITOQUIMICO DE LIQUIDO PLEURAL ',
@@ -1954,7 +1954,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 590,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CITOQUIMICO DE LIQUIDO SINOVIAL ',
@@ -1963,7 +1963,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 590,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CITRATO EN ORINA ',
@@ -1972,7 +1972,7 @@ export const catalogue = [
 		days_for_delivery: '13',
 		price: 660,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CITRATO EN SANGRE ',
@@ -1981,7 +1981,7 @@ export const catalogue = [
 		days_for_delivery: '14',
 		price: 3990,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CLONAZEPAN EN SUERO ',
@@ -1990,7 +1990,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 1450,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CLORO SERICO ',
@@ -1999,7 +1999,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 110,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CLORO URINARIO ',
@@ -2009,7 +2009,7 @@ export const catalogue = [
 		price: 120,
 		conditions:
 			'ORINA DE 24 HORAS SIN ACIDO REFRIGERAR DURANTE LA RECOLECCION ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CLOSTRIDIUM DIFFICILE (TOXINA A ,B)',
@@ -2018,7 +2018,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 790,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CO2 TOTAL ',
@@ -2027,7 +2027,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 630,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COBRE EN ORINA ',
@@ -2036,7 +2036,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 1150,
 		conditions: 'REFRIGERAR DURANTE LA RECOLECCIÓN',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COBRE EN SANGRE ',
@@ -2045,7 +2045,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 1150,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COCAINA ',
@@ -2054,7 +2054,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 140,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COCAINA (CUANTITATIVA) ',
@@ -2063,7 +2063,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 350,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COLESTEROL DE ALTA DENSIDAD (HDL) ',
@@ -2072,7 +2072,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 130,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COLESTEROL DE BAJA DENSIDAD (LDL) ',
@@ -2081,7 +2081,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 100,
 		conditions: 'AYUNO DE 12 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COLESTEROL DE MUY BAJA DENSIDAD (VLDL) ',
@@ -2090,7 +2090,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 90,
 		conditions: 'AYUNO DE 12 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COLESTEROL Y SUS DENSIDADES ',
@@ -2099,7 +2099,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 380,
 		conditions: 'AYUNO DE 12 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COLESTEROL TOTAL ',
@@ -2108,7 +2108,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 100,
 		conditions: 'AYUNO DE 12 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COLINESTERASA ',
@@ -2117,7 +2117,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 250,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COMPLEJO INMUNE CIRCULANTES ',
@@ -2126,7 +2126,7 @@ export const catalogue = [
 		days_for_delivery: '10',
 		price: 630,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COMPLEMENTO C3 ',
@@ -2135,7 +2135,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 350,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COMPLEMENTO C4 ',
@@ -2144,7 +2144,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 350,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COMPLEMENTO HEMOLITICO 50% ',
@@ -2153,7 +2153,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 430,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COOMS DIRECTO ',
@@ -2162,7 +2162,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 250,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COOMS INDIRECTO ',
@@ -2171,7 +2171,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 250,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COPROLOGICO - BEBÉS (AF, AZUCARES REDUCTORES, DETERMINACIÓN DE PH, SOH, CMF, ROTAVIRUS, CPS III) ',
@@ -2180,7 +2180,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 630,
 		conditions: 'DIETA LIGERA 3 DIAS ANTES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COPROPARASITOSCOPICO ',
@@ -2189,7 +2189,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 90,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'COPROPORFIRINAS ',
@@ -2199,7 +2199,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 970,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CORTISOL PLASMATICO ',
@@ -2208,7 +2208,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 320,
 		conditions: 'AYUNO DE 8 HORAS,TOMAR EN LA HORA INDICADA POR EL MEDICO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CORTISOL PLASMATICO MATUTINO ',
@@ -2218,7 +2218,7 @@ export const catalogue = [
 		price: 320,
 		conditions:
 			'AYUNO DE 8 HORAS, TOMAR EN LA HORA INDICADA POR EL MEDICO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CORTISOL URINARIO ',
@@ -2228,7 +2228,7 @@ export const catalogue = [
 		price: 320,
 		conditions:
 			'ORINA DE 24 HORAS, SIN ÁCIDO, REFRIGERAR DURANTE LA RECOLECCIÓN ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CORTISOL VESPERTINO ',
@@ -2238,7 +2238,7 @@ export const catalogue = [
 		price: 320,
 		conditions:
 			'AYUNO DE 8 HORAS, TOMAR EN LA HORA INDICADA POR EL MEDICO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CREATINA EN ORINA ',
@@ -2248,7 +2248,7 @@ export const catalogue = [
 		price: 550,
 		conditions:
 			'ORINA DE 24 HORAS, SIN ACIDO, REFRIGERAR DURANTE LA RECOLECCION ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CREATINA EN SUERO ',
@@ -2257,7 +2257,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 550,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CREATIN FOSFOCINASA (CPK) (CK) ',
@@ -2266,7 +2266,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 210,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CREATIN CINASA MB (CK-MB)',
@@ -2275,7 +2275,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 250,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CREATININA SERICA ',
@@ -2284,7 +2284,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 90,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CREATININA URINARIA',
@@ -2293,7 +2293,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 90,
 		conditions: 'PRIMERA ORINA DE LA MAÑANA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CREATININA URINARIA DE 24 HRS',
@@ -2302,7 +2302,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 90,
 		conditions: 'ORINA SIN ACIDO REFRIGERAR',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CRIOGLOBULINAS',
@@ -2311,7 +2311,7 @@ export const catalogue = [
 		days_for_delivery: '2 (CONSULTAR) ',
 		price: 290,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CRISTALOGRAFIA',
@@ -2321,7 +2321,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 190,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CUADRUPLE MARCADOR CON INTERPRETACION',
@@ -2331,7 +2331,7 @@ export const catalogue = [
 		price: 5580,
 		conditions:
 			'AYUNO 8 HRS. ENVIAR COPIA DE USG Y CUESTIONARIO. SE TOMA DE SEMANA 14 A 22 DE GESTACION',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CUANTIFICACION DE BETA HCG EN SUERO',
@@ -2340,7 +2340,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 310,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CURVA DE TOLERANCIA A LA GLUCOSA',
@@ -2350,7 +2350,7 @@ export const catalogue = [
 		price: 370,
 		conditions:
 			'TOMAR MUESTRA DESPUES DE INGESTA DE DEXTROSOL (DISPONER DE TIEMPO)',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'DEHIDROEPIANDROSTERONA (DHEA)',
@@ -2359,7 +2359,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 320,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'DEPURACION DE CREATININA EN ORINA DE 24 HRS',
@@ -2369,7 +2369,7 @@ export const catalogue = [
 		price: 200,
 		conditions:
 			'AYUNO DE 8 HORAS ORINA DE 24 HRS SIN ACIDO, REFRIGERAR DURANTE LA RECOLECCION',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'DESHIDROGENASA LACTICA (DHL)',
@@ -2378,7 +2378,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 120,
 		conditions: 'AYUNO DE 8 HRS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'DESOXIPIRIDINOLEINA (PYRILINKS-D)',
@@ -2388,7 +2388,7 @@ export const catalogue = [
 		price: 2130,
 		conditions:
 			' ORINA DE 2 HORAS, ELIMINAR LA PRIMERA DE LA MAÑANA RECOLECTAR ANTES DE LAS 10:00 AM PROTEGER DE LA LUZ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'DIAGNOSTICO SEROLOGICO DE LEPTOSPIROSIS',
@@ -2397,7 +2397,7 @@ export const catalogue = [
 		days_for_delivery: '7 (CONSULTAR)',
 		price: 790,
 		conditions: 'AYUNO DE 8 HRS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'DIFENILHIDANTOINA (DFH)',
@@ -2406,7 +2406,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 370,
 		conditions: 'AYUNO DE 8 HORAS Y ANTES DE LA SIGUIENTE DOSIS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'DIGOXINA',
@@ -2415,7 +2415,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 440,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'DIHIDROTESTOSTERONA (DHT)',
@@ -2424,7 +2424,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 620,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'DIMERO D (D-D)',
@@ -2433,7 +2433,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 590,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'DOBLE MARCADOR',
@@ -2443,7 +2443,7 @@ export const catalogue = [
 		price: 2380,
 		conditions:
 			'AYUNO DE 8 HORAS ENVIAR COPIA DE USG Y CUESTIONARIO SE TOMA DE LA SEMANA 11 A 13 DE GESTACION',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'DOC CERVIX (CITOLOGIA CERVICO VAGINAL)',
@@ -2453,7 +2453,7 @@ export const catalogue = [
 		price: 300,
 		conditions:
 			'ABSTINENCIA SEXUAL 4 DÍAS PREVIOS A LA TOMA, NO HABER APLICADO MEDICAMENTOS VÍA VAGINAL, NO ESTAR MENSTRUANDO (10 DÍAS ANTES O 10 DÍAS DESPUÉS), ASEO PERSONAL ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ELECTROFORESIS DE HEMOGLOBINA (3 CLASES) (A, A2, F)',
@@ -2463,7 +2463,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 1020,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ELECTROFORESIS DE LIPOPROTEINAS CON LIPIDOS',
@@ -2472,7 +2472,7 @@ export const catalogue = [
 		days_for_delivery: '4 (CONSULTAR)',
 		price: 450,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ELETROFORESIS DE PROTEINAS (PROTEÍNAS TOTALES, ALBUMINA, GLOBULINAS,FRACC. ALFA 1 , ALFA 2, BETA, GAMMA , REL. ALBUMINA - GLOBULINA)',
@@ -2481,7 +2481,7 @@ export const catalogue = [
 		days_for_delivery: '2 ENTREGA DESPUÉS DE 19:00 HORAS',
 		price: 490,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ELETROFORESIS DE PROTEINAS EN LCR (PROTEINAS TOTALES, ALBUMINA, FRACC. ALFA 1, ALFA 2, BETA, GAMMA)',
@@ -2490,7 +2490,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 690,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ELETROFORESIS DE PROTEINAS EN ORINA (PROTEINAS TOTALES, ALBUMINA, FRACC. ALFA 1, ALFA 2, BETA, GAMMA)',
@@ -2499,7 +2499,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 690,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ELECTROLITOS SERICOS I PARCIALES (Na, K, Cl)',
@@ -2508,7 +2508,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 270,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ELECTROLITOS SERICOS II (Na, K, Cl, Ca)',
@@ -2517,7 +2517,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 370,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ELECTROLITOS SERICOS III (Na, K, Cl, Ca, P)',
@@ -2526,7 +2526,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 440,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ELECTROLITOS SERICOS IV COMPLETOS (Na, K, Cl,Ca, P, Mg)',
@@ -2535,7 +2535,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 540,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ELECTROLITOS URINARIOS (Na, K)',
@@ -2544,7 +2544,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 220,
 		conditions: 'ORINA DE 24 HRS REFRIGERAR DURANTE LA RECOLECCION',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'EOSINOFILOS EN MOCO NASAL O ESPUTO ',
@@ -2554,7 +2554,7 @@ export const catalogue = [
 		price: 90,
 		conditions:
 			'SIN ASEO BUCAL / SIN ASEO EN NARINAS RECOLECTAR EN LA MAÑANA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ENOLASA ESPECÍFICA DE NEURONA',
@@ -2563,7 +2563,7 @@ export const catalogue = [
 		days_for_delivery: '10',
 		price: 1990,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ERITROPOYETINA',
@@ -2572,7 +2572,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 850,
 		conditions: 'AYUNO DE 8 HORAS ENVIAR CONGELADO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ESPERMATOBIOSCOPIA DIRECTA (SEMINOGRAMA)',
@@ -2582,7 +2582,7 @@ export const catalogue = [
 		price: 300,
 		conditions:
 			'3 A 5 DIAS DE ABSTINENCIA SEXUAL ANOTAR HORA DE RECOLECCION ENTREGAR AL LABORATORIO ANTES DE UNA HORA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ESTRADIOL (E2)',
@@ -2592,7 +2592,7 @@ export const catalogue = [
 		price: 280,
 		conditions:
 			'AYUNO DE 8 HORAS. TOMAR EN EL DIA Y HORA QUE INDIQUE EL MEDICO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ESTRIOL LIBRE',
@@ -2601,7 +2601,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 450,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ESTROGENOS TOTALES',
@@ -2610,7 +2610,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 280,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ESTRONA',
@@ -2619,7 +2619,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 790,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'EXAMEN GENERAL DE ORINA',
@@ -2628,7 +2628,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 100,
 		conditions: 'PRIMERA ORINA DE LA MAÑANA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'EXAMEN EN FRESCO DE LÍQUIDO DE CAVIDAD ABDOMINAL',
@@ -2637,7 +2637,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 120,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FACTOR DE VON WILLEBRAND',
@@ -2646,7 +2646,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 980,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FACTOR II DE LA COAGULACION',
@@ -2655,7 +2655,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 1090,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FACTOR IX DE LA COAGULACION',
@@ -2664,7 +2664,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 900,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FACTOR REUMATOIDE CUANTITATIVO ',
@@ -2673,7 +2673,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 240,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FACTOR REUMATOIDE SEMICUANTITATIVO ',
@@ -2682,7 +2682,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 90,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FACTOR V (MUTACION LEIDEN)',
@@ -2692,7 +2692,7 @@ export const catalogue = [
 		days_for_delivery: '15',
 		price: 1200,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FACTOR VII DE LA COAGULACION ',
@@ -2701,7 +2701,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 920,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FACTOR VIII ANTIGENICO ',
@@ -2710,7 +2710,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 2450,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FACTOR X DE LA COAGULACION ',
@@ -2719,7 +2719,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 940,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FACTOR VIII COAGULANTE FUNCIONAL ',
@@ -2728,7 +2728,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 1250,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FACTOR XI DE LA CUAGULACION ',
@@ -2737,7 +2737,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 940,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FENILCICLIDINA (PCP) ',
@@ -2746,7 +2746,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 280,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FENOBARBITAL ',
@@ -2755,7 +2755,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 450,
 		conditions: 'AYUNO DE 8 HORAS Y ANTES DE LA SIGUIENTE DOSIS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FERRITINA ',
@@ -2764,7 +2764,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 330,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FIBRINOGENO ',
@@ -2773,7 +2773,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 320,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FORMULA BLANCA ',
@@ -2782,7 +2782,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 120,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FORMULA BLANCA (VERIFICAR ALTERACION) ',
@@ -2791,7 +2791,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 240,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FORMULA ROJA ',
@@ -2800,7 +2800,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 120,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FOSFATASA ACIDA TOTAL ',
@@ -2809,7 +2809,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 200,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FOSFATASA ACIDA Y FRACCION PROSTATICA ',
@@ -2818,7 +2818,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 480,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FOSFATASA ALCALINA ',
@@ -2827,7 +2827,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 120,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FOSFATASA ALCALINA FRACCION OSEA ',
@@ -2836,7 +2836,7 @@ export const catalogue = [
 		days_for_delivery: '13',
 		price: 980,
 		conditions: 'AYUNO DE 8 HORAS PROTEGER DE LA LUZ ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FOSFATASA ALCALINA LEUCOCITARIA (EN NEUTROFILOS) ',
@@ -2846,7 +2846,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 1400,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FOSFOLIPIDOS ',
@@ -2855,7 +2855,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 280,
 		conditions: 'AYUNO DE 12 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FOSFORO SERICO ',
@@ -2864,7 +2864,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 130,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FOSFORO URINARIO ',
@@ -2873,7 +2873,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 140,
 		conditions: 'ORINA 24 HORAS REFRIGERAR DURANTE LA RECOLECCIÓN',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FRAGILIDAD OSMOTICA ',
@@ -2882,7 +2882,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 460,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'FRUCTOSAMINA ',
@@ -2891,7 +2891,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 660,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GAMMA GLUTAMIL TRANSFERASA (GGT) ',
@@ -2900,7 +2900,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 210,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GASOMETRIA ARTERIAL ',
@@ -2911,7 +2911,7 @@ export const catalogue = [
 		price: 850,
 		conditions:
 			'AYUNO DE 8 HORAS MANTENER EN HIELO HASTA SU PROCESO, INDICAR TEMPERATURA Y LITROS DE O2',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GASOMETRIA ARTERIAL CON SODIO Y POTASIO ',
@@ -2922,7 +2922,7 @@ export const catalogue = [
 		price: 850,
 		conditions:
 			'AYUNO DE 8 HORAS MANTENER EN HIELO HASTA SU PROCESO, INDICAR TEMPERATURA Y LITROS DE O2',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GASOMETRIA VENOSA ',
@@ -2933,7 +2933,7 @@ export const catalogue = [
 		price: 850,
 		conditions:
 			'AYUNO DE 8 HORAS MANTENER EN HIELO HASTA SU PROCESO, INDICAR TEMPERATURA Y LITROS DE O2',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GALACTOMANANO',
@@ -2942,7 +2942,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 1640,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GASTRINA ',
@@ -2951,7 +2951,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 550,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GLUCOSA SERICA ',
@@ -2960,7 +2960,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 60,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GLUCOSA URINARIA ',
@@ -2969,7 +2969,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 80,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GENOTIPO DE VIH (NECESARIA INFORMACION DE CARGA VIRAL DE 6 MESES ATRÁS)',
@@ -2978,7 +2978,7 @@ export const catalogue = [
 		days_for_delivery: '18',
 		price: 10700,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GENOTIPO VIRUS DE HEPATITIS "C" (NECESARIA INFORMACION DE CARGA VIRAL DE 6 MESES ATRÁS) ',
@@ -2987,7 +2987,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 5600,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GLOBULINA FIJADORA DE HORMONAS SEXUALES ',
@@ -2996,7 +2996,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 1430,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GLOBULINAS (ELECTROFORESIS DE PROTEINAS) ',
@@ -3005,7 +3005,7 @@ export const catalogue = [
 		days_for_delivery: '3 ENTREGA DESPUÉS DE 19:00 HORAS',
 		price: 530,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GLUCAGON ',
@@ -3014,7 +3014,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 950,
 		conditions: 'AYUNO DE 8 HORAS CONGELAR Y MANTENER EN TUBO DE VIDRIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GLUCOSA 6 FOSFATO DESHIDROGENASA ',
@@ -3024,7 +3024,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 330,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GLUCOSA POSTPRANDIAL ',
@@ -3035,7 +3035,7 @@ export const catalogue = [
 		price: 110,
 		conditions:
 			'AYUNO DE 8 HORAS PARA LA TOMA BASAL CONSUMIR ALIMENTO O DEXTROSOL 50gr. O 75gr SEGÚN NINDICACIONES DEL MEDICO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GOTA GRUESA PLASMODIUM SP ',
@@ -3044,7 +3044,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 230,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GRASA EN HECES ',
@@ -3053,7 +3053,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 190,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'GRUPO SANGUINEO Y FACTOR RH ',
@@ -3062,7 +3062,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 80,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HAPTOGLOBINAS',
@@ -3071,7 +3071,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 660,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HEMOGLIBINA GLUCOSILADA Y FRACCION A1c ',
@@ -3080,7 +3080,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 270,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HEMOGLOBINA LIBRE',
@@ -3089,7 +3089,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 1000,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HEMOSIDERINA EN ORINA ',
@@ -3098,7 +3098,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 500,
 		conditions: 'PRIMERA ORINA DEL DIA ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HIV',
@@ -3107,7 +3107,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 310,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HGC FRACCION BETA CUANTIFICACION',
@@ -3116,7 +3116,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 270,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HGC BETA LIBRE',
@@ -3125,7 +3125,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 600,
 		conditions: 'AYUNO 8 HORAS INDICAR SEMANAS DE GESTACION',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HGC BETA LIBRE TUMORAL',
@@ -3134,7 +3134,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 850,
 		conditions: 'AYUNO 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HIDROXIPOLINA (ORINA DE 24 HORAS)',
@@ -3143,7 +3143,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 950,
 		conditions: 'DIETA BAJA EN COLAGENO 72 HORAS PREVIAS A LA TOMA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HIERRO SERICO ',
@@ -3152,7 +3152,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 210,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HOMOCISTEINA EN SANGRE ',
@@ -3161,7 +3161,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 950,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HORMONA ADREDOCORTICOTROFICA (ACTH) ',
@@ -3170,7 +3170,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 450,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HORMONA ANTIMULLERIANA',
@@ -3179,7 +3179,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 2700,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HORMONA CORIAL SERICA (HGCs) ',
@@ -3188,7 +3188,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 220,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HORMONA CORIAL URINARIA (HGCu)',
@@ -3197,7 +3197,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 220,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HORMONA DE CRECIMIENTO, CURVA DE 2 DETERMINACIONES (BASAL Y TIEMPO) ',
@@ -3207,7 +3207,7 @@ export const catalogue = [
 		price: 590,
 		conditions:
 			'AYUNO ESTRICTO DE 8 HORAS, TOMA BASAL: ANTES DE EJERCICIO O MEDICAMENTO, TIEMPO 20 MINUTOS CONTINUOS O TOMAR MEDICAMENTO PREESCRITO, TIEMPO 1 ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HORMONA DE CRECIMIENTO, CURVA DE 3 DETERMINACIONES (BASAL, TIEMPO 1 Y TIEMPO 2) ',
@@ -3218,7 +3218,7 @@ export const catalogue = [
 		price: 870,
 		conditions:
 			'AYUNO ESTRICTO DE 8 HORAS, TOMA BASAL: ANTES DE EJERCICIO O MEDICAMENTO, TIEMPO 20 MINUTOS CONTINUOS O TOMAR MEDICAMENTO PREESCRITO, TIEMPO 1 TIEMPO 2',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HORMONA DEL CRECIMIENTO (GH)',
@@ -3227,7 +3227,7 @@ export const catalogue = [
 		days_for_delivery: '2',
 		price: 330,
 		conditions: 'AYUNO ESTRICTO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HORMONA DEL CRECIMIENTO BASAL ',
@@ -3235,7 +3235,7 @@ export const catalogue = [
 		recipent: 'TUBO ROJO',
 		days_for_delivery: '2',
 		conditions: 'AYUNO DE 8 HORAS. ANTES DE EJERCICIO O ESTIMULO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HORMONA DEL CRECIMIENTO POST ',
@@ -3245,7 +3245,7 @@ export const catalogue = [
 		price: 330,
 		conditions:
 			'POST EJERCICIO, EL PACIENTE DEBE HACER EJERCICIO POR MINIMO 20 MINUTOS O SEGÚN INDICACION DEL MEDICO, O POSTERIOR A ESTIMULO POR MEDICAMENTO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HORMONA ESTIMULANTE DEL TIROIDES (TSH) ',
@@ -3254,7 +3254,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 350,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HORMONA FOLICULO ESTIMULANTE (FSH)',
@@ -3263,7 +3263,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 280,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HORMONA LUTEINIZANTE (LH) ',
@@ -3272,7 +3272,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 280,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HORMONA PARATIROIDEA (PTH INTACTA) ',
@@ -3281,7 +3281,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 440,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'HPN INMUNOFENOTIPO (CD 55, CD59)',
@@ -3291,7 +3291,7 @@ export const catalogue = [
 		days_for_delivery: '4 (CONSULTAR)',
 		price: 2790,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'IGFBP 3 ',
@@ -3300,7 +3300,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 850,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INDUCCION DE DREPANOCITOS ',
@@ -3309,7 +3309,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 260,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INDICE HOMA (GLUCOSA E INSULINA)',
@@ -3318,7 +3318,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 350,
 		conditions: 'AYUNO 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INMUNOFENOTIPO DE LEUCEMIAS',
@@ -3328,7 +3328,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 5300,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INMUNOFIJACION DE PROTEINAS EN LCR. BANDA MONOCLONAL, BANDAS OLIGOCLONALES, BANDAS POLICLONALES ',
@@ -3337,7 +3337,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 2750,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INMUNOFIJACION DE PROTEINAS EN ORINA. BANDA MONOCLONAL, BANDAS OLIGOCLONALES, BANDA POLICLONALES ',
@@ -3346,7 +3346,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 2750,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INMUNOFIJACION DE PROTEINAS EN SANGRE. BANDA MONOCLONAL , BANDAS OLIGOCLONALES (TIPO IgG, TIPO kappa, TIPO lambda)',
@@ -3355,7 +3355,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 2750,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INMUNOGLOBULINA A (IgA) ',
@@ -3364,7 +3364,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 260,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INMUNOGLOBULINA D (IgD) ',
@@ -3373,7 +3373,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 500,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INMUNOGLOBULINA E (IgE) (TOTAL) ',
@@ -3382,7 +3382,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 310,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INMUNOGLOBULINA G (IgG)',
@@ -3391,7 +3391,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 260,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INMUNOGLOBULINA M (IgM) ',
@@ -3400,7 +3400,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 260,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INSULINA ',
@@ -3409,7 +3409,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 290,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INSULINA BASAL ',
@@ -3418,7 +3418,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 290,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INTERLEUCINA 6 (IL-6)',
@@ -3427,7 +3427,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 1240,
 		conditions: 'AYUNO 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INSULINA POSTPRANDIAL (TIEMPO 1)',
@@ -3436,7 +3436,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 290,
 		conditions: 'POSTERIOR A ESTÍMULO INDICADO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INSULINA CURVA DE 2 DETERMINACIONES (BASAL, POST CARGA)',
@@ -3445,7 +3445,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 690,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ION AMONIO ',
@@ -3455,7 +3455,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 280,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INVESTIGACION DE INFLUENZA A Y B ',
@@ -3464,7 +3464,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 700,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'INVESTIGACION DE INFLUENZA A,B Y H1N1',
@@ -3473,7 +3473,7 @@ export const catalogue = [
 		days_for_delivery: '1 (CONSULTAR)',
 		price: 770,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ISOENZIMAS DE CREATINFOSFOQUINASA (FRACCION BB, MB, MM, FOSFOQUINASA )',
@@ -3482,7 +3482,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 1680,
 		conditions: 'AYUNO DE 8 HORAS REFRIGERAR ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ISOENZIMAS DE DESHIDROGENASA LACTICA (LDH1, LDH2, LDH3, LDH4, LDH5) ',
@@ -3491,7 +3491,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 1750,
 		conditions: 'AYUNO DE 8 HORAS REFRIGERAR ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ISOENZIMAS DE FOSFATASA ALCALINA (FRACCION HEPATICA, OSEA, INTESTINAL, PLACENTARIA) ',
@@ -3500,7 +3500,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 1880,
 		conditions: 'AYUNO DE 8 HORAS REFRIGERAR ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'LAMOTRIGINA ',
@@ -3509,7 +3509,7 @@ export const catalogue = [
 		days_for_delivery: '12',
 		price: 2200,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'LEPTINA ',
@@ -3518,7 +3518,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 940,
 		conditions: 'AYUNO DE 12 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'LEVETIRACETAM ',
@@ -3527,7 +3527,7 @@ export const catalogue = [
 		days_for_delivery: '17',
 		price: 3200,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'LINFOCITOS CD4',
@@ -3536,7 +3536,7 @@ export const catalogue = [
 		days_for_delivery: '3 (CONSULTAR)',
 		price: 770,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'LINFOCITOS CD4 - CD8 ',
@@ -3545,7 +3545,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 2400,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'LIPASA SERICA ',
@@ -3554,7 +3554,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 180,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'LIPIDOS TOTALES ',
@@ -3563,7 +3563,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 210,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'LITIO SERICO ',
@@ -3572,7 +3572,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 290,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'LIPOPROTEINA A ',
@@ -3581,7 +3581,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 830,
 		conditions: 'AYUNO DE 12 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'MACRO PROLACTINA',
@@ -3590,7 +3590,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 950,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'MAGNESIO SERICO ',
@@ -3599,7 +3599,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 130,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'MAGNESIO URINARIO ',
@@ -3608,7 +3608,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 130,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'MERCURIO EN ORINA ',
@@ -3617,7 +3617,7 @@ export const catalogue = [
 		days_for_delivery: '14',
 		price: 1200,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'MERCURIO EN SANGRE ',
@@ -3626,7 +3626,7 @@ export const catalogue = [
 		days_for_delivery: '13',
 		price: 1010,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'METAANFETAMINAS (CUALITATIVAS) ',
@@ -3635,7 +3635,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 140,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'METADONA (MTD)',
@@ -3644,7 +3644,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 270,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'METAHEMOGLOBINA ',
@@ -3653,7 +3653,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 440,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'MICROALBUMINURIA EN ORINA ESPONTANEA (ALBUMINA URINARIA)',
@@ -3662,7 +3662,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 260,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'MICROALBUMINURIA EN ORINA DE 24 HORAS (ALBUMINA URINARIA)',
@@ -3671,7 +3671,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 260,
 		conditions: 'ORINA 24 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'MIOGLOBINA EN SUERO ',
@@ -3680,7 +3680,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 550,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'MORFINA (CUALITATIVA)',
@@ -3689,7 +3689,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 210,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'MUCOPOLISACARIDOS, CUANTIFICACION DE ',
@@ -3698,7 +3698,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 770,
 		conditions: 'PRIMERA ORINA DEL DIA ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'NICOTINA (COTININA) ',
@@ -3707,7 +3707,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 550,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'NITROGENO UREICO (BUN) ',
@@ -3716,7 +3716,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 80,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'NITROGENO UREICO URINARIO ',
@@ -3726,7 +3726,7 @@ export const catalogue = [
 		price: 90,
 		conditions:
 			'ORINA DE 24 HORAS SIN ACIDO REFRIGERAR DURANTE LA RECOLECCION ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'N-TELOPEPTIDOS ',
@@ -3735,7 +3735,7 @@ export const catalogue = [
 		days_for_delivery: '3 (CONSULTAR)',
 		price: 1450,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'OPIACEOS (CUALITATIVOS) ',
@@ -3744,7 +3744,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 200,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'OPIACEOS (CUANTITATIVOS) ',
@@ -3753,7 +3753,7 @@ export const catalogue = [
 		days_for_delivery: '1 (CONSULTAR)',
 		price: 275,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'OSMOLARIDAD URINARIA ',
@@ -3762,7 +3762,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 340,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'OSMOLARIDAD SERICA ',
@@ -3771,7 +3771,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 340,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'OSTEOCALCINA ',
@@ -3780,7 +3780,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 700,
 		conditions: 'AYUNO DE 8 HORAS REFRIGERAR',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'OXALATOS EN ORINA DE 24 HORAS',
@@ -3789,7 +3789,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 1300,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'OXCARBAZEPINA ',
@@ -3798,7 +3798,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 1900,
 		conditions: 'AYUNO DE 8 HORAS Y ANTES DE LA SIGUIENTE DOSIS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'OXIUROS PRUEBA DE GRAHAM ',
@@ -3808,7 +3808,7 @@ export const catalogue = [
 		price: 150,
 		conditions:
 			'EL PACIENTE NO DEBE BAÑARSE ANTES DE LA TOMA POR LA MAÑANA ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PCR PARA CHINKUNGUNYA, DETECCION',
@@ -3817,7 +3817,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 3090,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PCR PARA CITOMEGALOVIRUS (CUALITATIVA)',
@@ -3827,7 +3827,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 3850,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PCR PARA CITOMEGALOVIRUS EN ORINA (CUALITATIVA)',
@@ -3836,7 +3836,7 @@ export const catalogue = [
 		days_for_delivery: '7 (CONSULTAR)',
 		price: 3090,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PCR PARA H1 N1',
@@ -3846,7 +3846,7 @@ export const catalogue = [
 		days_for_delivery: '2',
 		price: 3420,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PCR DE HERPES VIRUS TIPO 1 Y 2 EN LCR, PLASMA O SECRECION ',
@@ -3856,7 +3856,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 5900,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PANEL VIRAL (HEP A, B, C)',
@@ -3865,7 +3865,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 880,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PCR PARA Mycobacterium tuberculosis EN ESPUTO ',
@@ -3874,7 +3874,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 3100,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PCR PARA Mycobacterium tuberculosis EN SANGRE COMPLETA ',
@@ -3883,7 +3883,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 3200,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PCR PARA Mycobacterium tuberculosis EN LCR ',
@@ -3892,7 +3892,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 3100,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PCR PARA Mycobacterium tuberculosis EN LIQUIDO PLEURAL ',
@@ -3901,7 +3901,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 3100,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PCR PARA Mycobacterium tuberculosis EN ORINA ',
@@ -3910,7 +3910,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 3100,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PCA 3 (CA DE PROSTATA)',
@@ -3919,7 +3919,7 @@ export const catalogue = [
 		days_for_delivery: '10 (CONSULTAR)',
 		price: 12375,
 		conditions: 'SIN INDICACIONES ESPECIALES ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PCR VIRUS DE HEPATITIS "B" (CUALITATIVA)',
@@ -3928,7 +3928,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 3250,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PCR VIRUS DE HEPATITIS "C" CUALITATIVA ',
@@ -3937,7 +3937,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 4380,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PCR ALTA SENSIBILIDAD',
@@ -3946,7 +3946,7 @@ export const catalogue = [
 		days_for_delivery: '1 (CONSULTAR)',
 		price: 480,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PEPTIDO C ',
@@ -3955,7 +3955,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 370,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PEPTIDO NATRIURETICO B (BPN) ',
@@ -3964,7 +3964,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 1050,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL ANDROGENICO (17 A HIDROXIPROGESTERONA, ANDROSTENEDIONA, TESTOSTERONA, CORTISOL Y DHEASO4)',
@@ -3973,7 +3973,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 1300,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL ATEROGENICO (COLESTEROL TOTAL, HDL, LDL, VLDL, INDICE ATEROGENETICO)',
@@ -3982,7 +3982,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 400,
 		conditions: 'AYUNO DE 12 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL CARDIACO 1 *ENZIMAS CARDIACAS* (TGO / ASAT, DHL,CK, CK-MB)',
@@ -3991,7 +3991,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 430,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL CARDIACO 2 (TGO / ASAT, DHL, CK, CK-MB, TROPONINA)',
@@ -4000,7 +4000,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 850,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL COPROLOGICO (CANTIDAD, CONSISTENCIA, COLOR, MOCO, REACCIÓN, FLORA BACTERIANA, PRUEBA DE FERMENTACION, ALBUMINA DISUELTA, SANGRE OCULTA EN HECES, RESTOS ALIMENTICIOS, CPS, GRASA EN HECES, LEVADURAS)',
@@ -4010,7 +4010,7 @@ export const catalogue = [
 		price: 320,
 		conditions:
 			'SIN INDICACIONES ESPECIALES. NO CONSUMIR PRODUCTOS CARNICOS 48 HORAS PREVIOS A LA TOMA ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL CORONARIO (COLESTEROL TOTAL, TRIGLICERIDOS, LIPIDOS TOTALES, ELECTROFORESEIS DE LIPOPROTEINAS, TGO, CK, CKMB, COLESTEROL HDL, LDL, VLDL)',
@@ -4019,7 +4019,7 @@ export const catalogue = [
 		days_for_delivery: '1 (CONSULTAR)',
 		price: 940,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE ALERGENOS ALIMENTICOS. CLASE IgE (CLARA / YEMA DE HUEVO, LECHE DE VACA, CASEINA, MELOCOTÓN, AGUACATE, FRESA, MEZCLA DE CITRICOS: LIMÓN, NARANJA, MANDARINA; HARINA DE TRIGO / AVENA, ARROZ, LEVADURA, CACAHUATE, , SEMILLA DE SOJA, ALMENDRA, MEZCLA DE FRUTOS DE CASCARA: AVELLANA, ALMENDRA, PISTACHE, ANACARDO; ALUBIA, MANZANA, MAÍZ, TOMATE, ZANAHORIA, PAPA, PLATANO, COL, CALABAZA, PIMIENTO VERDE, CHOCOLATE, PAVO, POLLO, CERDO, RES, MEZCLA DE QUESOS, LANGOSTINO, ATÚN, MEZCLA DE PESCADO Y MARISCO: BACALAO, LANGOSTINO, , MEJILLÓN, ATÚN, SALMÓN) ',
@@ -4029,7 +4029,7 @@ export const catalogue = [
 		price: 3200,
 		conditions:
 			'AYUNO DE 8 HORAS NO ENVIAR SUERO HEMOLIZADO O LIPEMICO CENTRIFUGAR POR 15 MINUTOS A 3000 RPM',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE ALERGENOS INHABILES MEXICANO. CLASE IgE (GRAMA DE OLOR, , BALLICO, FLEO, SORGO DE ALEPOP, AVENA, ABEDUL, ROBLE, ACACIA, ALIGUSTRE, ALGARROBO, CHOPO, FRESNO BLANCO, AMBROSIA ARTEMISIFOLIA, FALSA AMBROSIA, ARTEMISA, DIENTE DE LEÓN, CENIZA, CARDO RUSO, AMANTO COMÚN, ARMUELLE, ACEDERA, DERMATOPHAGOIDES PTERONISYNUS, DERMATOPHAGOIDES FARINAE, POLVO DOMESTICO, CUCARACHA ALEMANA, EPITELIO DE GATO / PERRO, MEZCLA DE AVES: PERIQUITO, POLLO, CANARIO, GANZO; PENICILLIUM NOTATUM, CLADOSPORIDIUM HERBARUM, ASPERGILLUS FULMGATUS, ALTERNARIA ALTERNATA, MUCOR MUCEDO, CANDIDA ALBICANS, RHIZOPUS NIGRICANS, EPICOCCUM PURPURASCENS)',
@@ -4039,7 +4039,7 @@ export const catalogue = [
 		price: 3200,
 		conditions:
 			'AYUNO DE 8 HORAS NO ENVIAR SUERO HEMOLIZADO O LIPEMICO CENTRIFUGAR POR 15 MINUTOS A 3000 RPM',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE ANTICUERPOS AUTOINMUNIDAD 1 (AC. ANTISMITH, AC. ANTI SS-A, AC. ANTI SS-B)',
@@ -4048,7 +4048,7 @@ export const catalogue = [
 		days_for_delivery: '2',
 		price: 1090,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE ANTICUERPOS AUTOINMUNIDAD 2 (AC. ANTI SCL -70, AC. ANTI JO-1)',
@@ -4057,7 +4057,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 1200,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE BILIRRUBINAS (BT,BD,BI)',
@@ -4066,7 +4066,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 120,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE CATECOLAMINAS URINARIAS (CATECOLAMINAS TOTALES, ADRENALINA, NORADRENALINA)',
@@ -4076,7 +4076,7 @@ export const catalogue = [
 		price: 2700,
 		conditions:
 			'3 DIAS ANTES DE LA PRUEBA NO CONSUMIR VAINILLA, CAFÉ, CHOCOLATE, PLATANO Y MEDICAMENTOS REFRIGERAR DURANTELA RECOLECCION',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE CATECOLAMINAS PLASMATICAS (CATECOLAMINAS TOTALES, ADRENALINA, NORADRENALINA, DOPAMINA)',
@@ -4086,7 +4086,7 @@ export const catalogue = [
 		price: 2600,
 		conditions:
 			'3 DIAS ANTES DE LA PRUEBA NO CONSUMIR VAINILLA, CAFÉ, CHOCOLATE, PLATANO Y MEDICAMENTOS REFRIGERAR DURANTELA RECOLECCION',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE CLIMATERIO (LH, FSH, ESTRADIOL)',
@@ -4095,7 +4095,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 600,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE COAGULACION 1 (TP, TPT, INR)',
@@ -4105,7 +4105,7 @@ export const catalogue = [
 		price: 190,
 		conditions:
 			'AYUNO DE 8 HORAS NO INGERIR ASPIRINA O ANTI-INFLAMATORIOS 4 DIAS ANTES DE LA PRUEBA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE COAGULACION 2 (PERFIL 1 + FIBRINOGENO)',
@@ -4115,7 +4115,7 @@ export const catalogue = [
 		price: 490,
 		conditions:
 			'AYUNO DE 8 HORAS NO INGERIR ASPIRINA O ANTI-INFLAMATORIOS 4 DIAS ANTES DE LA PRUEBA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE DROGAS DE ABUSO DE 3 PARAMETROS (COCAINA, ANFETAMINAS, MARIHUANA) CUALITATIVO',
@@ -4124,7 +4124,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 500,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE DROGAS DE ABUSO DE 4 PARAMETROS (PERFIL DE 3 PARAMETROS + METANFETAMINAS) CUALITATIVO',
@@ -4133,7 +4133,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 600,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE DROGAS DE ABUSO DE 5 PARAMETROS (PERFIL DE 4 PARAMETROS + BENZODIAZEPINAS) CUALITATIVO',
@@ -4142,7 +4142,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 830,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE DROGAS DE ABUSO DE 6 PARAMETROS (PERFIL DE 5 PARAMETROS + OPIACEOS) CUALITATIVO',
@@ -4151,7 +4151,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 830,
 		conditions: 'ORINA ESPONTANEA LA TOMA DEBE SER EN EL LABORATORIO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE GASTROENTERITIS 1 (ROTAVIRUS, ADENOVIRUS)',
@@ -4160,7 +4160,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 720,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE GASTROENTERITIS 2 (CRYPTOSPORIDIUM, GIARDIA, ENTAMOEBA)',
@@ -4169,7 +4169,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 820,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE HELYCOBACTER PYLORI 1 (AC. ANTI H. PYLORI IgG e IgA)',
@@ -4178,7 +4178,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 720,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE HELYCOBACTER PYLORI 2 (AC. ANTI H. PYLORI IgG, IgM e IgA)',
@@ -4187,7 +4187,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 920,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE HEPATITIS A (AC. ANTI HEPATITIS A TOTALES, AC. ANTI HEPATITIS IgM)',
@@ -4196,7 +4196,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 900,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE HEPATITIS INFECCIOSA (AC. ANTI HAVA IgM, HBsAg, HCV)',
@@ -4205,7 +4205,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 1000,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL HEPATITIS AUTOINMUNE (AC. ANTI LKM,ANTI LC1,SLA/LP)',
@@ -4214,7 +4214,7 @@ export const catalogue = [
 		days_for_delivery: '4 (CONSULTAR)',
 		price: 1430,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE HIERRO 1 (HIERRO SERICO, CAPACIDAD DE FIJACIÓN DE HIERRO, % DE SATURACION)',
@@ -4223,7 +4223,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 390,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE HIERRO 2 (HIERRO SERICO, CAPACIDAD DE FIJACIÓN DE HIERRO, % DE SATURACION, FERRITINA, TRANSFERRINA)',
@@ -4232,7 +4232,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 830,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE HIPERANDROGENISMO (CORTISOL, ANDROSTENEDIONA, DHEA-S04, TESTOSTERONA LIBRE Y TOTAL)',
@@ -4241,7 +4241,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 1200,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE HIPERTENSION (ALDOSTERONA, CATECOLAMINAS TOTALES, COSTISOL)',
@@ -4250,7 +4250,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 2550,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE HIRSUTISMO 1 (BASICO) (LH, TESTOSTERONA TOTAL, CORTISOL, ANDROSTENEDIONA, DHEA)',
@@ -4259,7 +4259,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 1200,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE HIRSUTISMO 2 (LH,FSH, TESTOSTERONA TOTAL Y LIBRE , CORTISOL, ANDROSTENEDIONA, DHEA, DHEA-So4)',
@@ -4268,7 +4268,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 1750,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE INMUNOGLOBULINAS (IgA, IgG, IgM)',
@@ -4277,7 +4277,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 720,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE INMUNOGLOBULINAS 2 (IgA, IgG, IgM, IgE)',
@@ -4286,7 +4286,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 880,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE LINFOCITOS Y GARGA VIRAL (CARGA VIRAL, LINFOCITOS CD4, CD8, REL. CD4/CD8)',
@@ -4296,7 +4296,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 5400,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE LIPIDOS (LIP TOT, TRIG, COLEST, ALFA, BETA, TIPO, PRE-BETA, HDL, LDL, VLDL, F.A)',
@@ -4305,7 +4305,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 470,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE LUPUS (AC. ANTI ANA, DNA, AC. ANTI SMITH, C3, C4) CUALITATIVO',
@@ -4314,7 +4314,7 @@ export const catalogue = [
 		days_for_delivery: '2',
 		price: 1450,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE METANEFRINAS (ORINA) (METANEFRINAS TOT, NOR-METAN, METANEFRINAS)',
@@ -4324,7 +4324,7 @@ export const catalogue = [
 		price: 2400,
 		conditions:
 			'ORINA DE 24 HORAS SIN ACIDO REFRIGERAR DURANTE LA RECOLECCION ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE METANEFRINAS (PLASMATICAS) (METANEFRINAS TOT, NOR-METAN, METANEFRINAS)',
@@ -4333,7 +4333,7 @@ export const catalogue = [
 		days_for_delivery: '16',
 		price: 1700,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE OSTEOPOROSIS (CALCIO, DEOXIPIRIDINOLINA, FOSF.ALCALINA, FOSFORO, N. TELOPEPTIDOS, OSTEOLCACINO)',
@@ -4343,7 +4343,7 @@ export const catalogue = [
 		price: 3950,
 		conditions:
 			'AYUNO DE 8 HORAS ORINA DE 2 HORAS SIN ACIDO REFRIGERAR DURANTE LA RECOLECCION',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE REPRODUCCION O GINECOLOGICO (HORMONAL) (LH, FSH, ESTRADIOL, PROLACTINA, PROGESTERONA, TESTOSTERONA TOTAL)',
@@ -4352,7 +4352,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 1090,
 		conditions: 'AYUNO DE 8 HORAS TOMAR EN LA HORA INDICADA POR EL MEDICO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE REPRODUCCION O GINECOLOGICO 2 (HORMONAL) (GINECOLOGICO 1 + ESTROGENOS TOTALES Y CORTISOL)',
@@ -4361,7 +4361,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 1450,
 		conditions: 'AYUNO DE 8 HORAS TOMAR EN LA HORA INDICADA POR EL MEDICO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE TORCH COMPLETO IgG e IgM',
@@ -4370,7 +4370,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 2200,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE TORCH IgG',
@@ -4379,7 +4379,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 1200,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL DE TORCH IgM',
@@ -4388,7 +4388,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 1200,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL HEPATICO NORMAL (MUJER) (B.D, B.I, B.T, TGO, TGP, F. ALCAL, GGT)',
@@ -4397,7 +4397,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 600,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL HEPATICO NORMAL (HOMBRE) (P.F.H.MUJER + F.ACIDA, F. PROST)',
@@ -4406,7 +4406,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 660,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL HEPATICO COMPLETO (MUJER) (P.F.H. NORMAL MUJER + PROT.TOT, ALBUMINA, GLOBULINA, REL A/G.)',
@@ -4415,7 +4415,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 900,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL HEPATICO COMPLETO (HOMBRE) (P.H.C. MUJER + FOS.ACIDA, F. PROST)',
@@ -4424,7 +4424,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 960,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL HEPATICO NORMAL NIÑ@S (B.D ,B.I, B.T, TGO, TGP, F.ALCALINA)',
@@ -4433,7 +4433,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 460,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL HEPATICO COMPLETO NIÑ@S (P.H.N. NIÑ@S + PROT.TOT, ALBUM, GLOB, REL. A/G)',
@@ -4442,7 +4442,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 700,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL HIPOFISIARIO 1 (ACTH, TSH, FSH)',
@@ -4452,7 +4452,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 710,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL HIPOFISIARIO 2 (ACTH, TSH, FSH, LH, PROLACTINA, HORMONA DEL CRECIMIENTO)',
@@ -4462,7 +4462,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 1300,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL HORMONAL MASCULINO (LH, FSH, TESTOSTERONA TOTAL)',
@@ -4471,7 +4471,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 720,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL HORMONAL MASCULINO 2 (LH, FSH, TESTOSTERONA TOTAL, ESTARDIOL Y PROLACTINA)',
@@ -4480,7 +4480,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 1100,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL NEONATAL AMPLIADO (69 DETERMINACIONES)',
@@ -4491,7 +4491,7 @@ export const catalogue = [
 		price: 3600,
 		conditions:
 			'TOMAR DESPUES DE LA SEGUNDA TOMA DE LECHE O A LAS 48 HORAS DE NACIMIENTO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL NEONATAL 1 (TSH neonatal , T4 Neonatal)',
@@ -4501,7 +4501,7 @@ export const catalogue = [
 		price: 400,
 		conditions:
 			'TOMAR DESPUES DE LA SEGUNDA TOMA DE LECHE O A LAS 48 HORAS DE NACIMIENTO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL NEONATAL 3 (NEONATAL 1 + 17 ALFAHIDROXIPROGESTERONA NEONATAL)',
@@ -4511,7 +4511,7 @@ export const catalogue = [
 		price: 690,
 		conditions:
 			'TOMAR DESPUES DE LA SEGUNDA TOMA DE LECHE O A LAS 48 HORAS DE NACIMIENTO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL NEONATAL 4 (NEONATAL 3 + FENILALANINA)',
@@ -4521,7 +4521,7 @@ export const catalogue = [
 		price: 750,
 		conditions:
 			'TOMAR DESPUES DE LA SEGUNDA TOMA DE LECHE O A LAS 48 HORAS DE NACIMIENTO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL NEONATAL ACTUAL (TNA) (NEONATAL 4 + GLUCOSA 6P DESHIDROGENASA, GALACTOSA URIDIL TRANSFERASA, GALACTOSA TOTAL, TRIPSINOGENO, TSH NEONATAL, FENILALANINA, 17 ALFA HIDROXIPROGESTERONA)',
@@ -4531,7 +4531,7 @@ export const catalogue = [
 		price: 650,
 		conditions:
 			'TOMAR DESPUES DE LA SEGUNDA TOMA DE LECHE O A LAS 48 HORAS DE NACIMIENTO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL NEONATAL PLUS (53 DETERMINACIONES) (TSH, T4, 17 ALFA HIDROXIPROGESTERONA, INMUNOTRIPSINA, GALACTOSA URIDIL TRANSFERASA, G6PD, GALACTOSA TOTAL, ELECTROFORESIS DE HEMOGLOBINA, AMINOACIDOS: PROLINA, ARGININA, ALANINA, CITRULINA, LEUCINA, ISOLEUCINA, METIONINA, FENILALANINA, ORINITINA, TIROXINA, VALINA, SICCINILACETONA, ; ACILCARNITINAS (32 TIPOS) )',
@@ -4541,7 +4541,7 @@ export const catalogue = [
 		price: 2500,
 		conditions:
 			'TOMAR DESPUES DE LA SEGUNDA TOMA DE LECHE O A LAS 48 HORAS DE NACIMIENTO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL OSEO (CALCIO, FOSFORO Y MAGNESIO SERICOS, FOSFATASA ALCALINA, HORMONA PARATIROIDEA)',
@@ -4550,7 +4550,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 750,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL PARATIROIDEO (CALCIO Y FOSFORO SERICO, HORMONA PARATIROIDEA, CALCITONINA)',
@@ -4559,7 +4559,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 1200,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL PRENATAL (GRUPO RH, VDRL, HIV)',
@@ -4568,7 +4568,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 500,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL PROSTATICO 1 (APE Y APL)',
@@ -4577,7 +4577,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 650,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL PROSTATICO 2 (APE, APL, FOSFATASA ACIDA Y FRACCION PROSTATICA)',
@@ -4586,7 +4586,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 980,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL REUMATICO (ASLO, FACTOR REUMATOIDE, PCR, AU, VSG)',
@@ -4595,7 +4595,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 550,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL SAAF (TP TPT, AC. ANTIFOSFOLIPIDOS, ANTICUAGULANTE LUPICO, ANTI CARDIOLIPINA, B2 GLICOPROTEINA)',
@@ -4604,7 +4604,7 @@ export const catalogue = [
 		days_for_delivery: '6 (CONSULTAR)',
 		price: 3950,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL TESTICULAR (TESTOSTERONA TOTAL PROLACTINA, FSH Y LH)',
@@ -4613,7 +4613,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 840,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL TIROIDEO LIBRE (T3 LIBRE, T4 LIBRE Y TSH)',
@@ -4622,7 +4622,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 500,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL TIROIDEO TOTAL (T4 TOTAL, T3 TOTAL, TSH)',
@@ -4631,7 +4631,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 500,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL TIROIDEO COMPLETO (T4 TOTAL, T3 TOTAL, TSH, YODO PROTEICO, T3 LIBRE, T4 LIBRE)',
@@ -4640,7 +4640,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 860,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL TIROIDEO CON ANTICUERPOS ANTI TIROGLOBULINA Y ANTIPEROXIDASA',
@@ -4649,7 +4649,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 1760,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL TOXEMICO (BH, QSC, PFH, EGO)',
@@ -4658,7 +4658,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 1150,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL TUMORAL FEMENINO (CEA, AFP, CA 125)',
@@ -4667,7 +4667,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 1040,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL TUMORAL FEMENINO 2 (CEA, AFP, CA 125, CA 15-3, CA 19-9)',
@@ -4676,7 +4676,7 @@ export const catalogue = [
 		days_for_delivery: '2',
 		price: 1800,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PERFIL TUMORAL MASCULINO (CEA, PSA TOTAL, AFP, BETA HGC)',
@@ -4685,7 +4685,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 1380,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PIRILINKS-D',
@@ -4695,7 +4695,7 @@ export const catalogue = [
 		price: 2200,
 		conditions:
 			'ORINA 2 HORAS ELIMINAR LA PRIMERA DE LA MAÑANA RECOLECTAR ANTES DE LAS 10 AM PROTEGER DE LA LUZ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PH Y AZUCARES REDUCTORES',
@@ -4704,7 +4704,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 140,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PLAQUETAS',
@@ -4713,7 +4713,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 100,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PLASMINOGENO',
@@ -4722,7 +4722,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 1300,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PLOMO EN SANGRE',
@@ -4731,7 +4731,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 980,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'POBLACION DE LINFOCITOS T Y B CD19,CD20, CD3, CD4,CD8',
@@ -4740,7 +4740,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 3500,
 		conditions: 'AYUNO DE 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PORFIRINAS',
@@ -4750,7 +4750,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 1500,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PORFOBILINOGENO',
@@ -4760,7 +4760,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 600,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'POTASIO SERICO ',
@@ -4769,7 +4769,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 90,
 		conditions: 'NO REQUIERE AYUNO ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'POTASIO URINARIO + SODIO URINARIO (ELECTROLITOS URINARIOS)',
@@ -4778,7 +4778,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 220,
 		conditions: 'ORINA 24 HORAS REFRIGERAR DURANTE LA RECOLECCION',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PREGNANDIOL URINARIO',
@@ -4787,7 +4787,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 1200,
 		conditions: 'ORINA 24 HORAS REFRIGERAR DURANTE LA RECOLECCION',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PRIMIDONA',
@@ -4796,7 +4796,7 @@ export const catalogue = [
 		days_for_delivery: '9 (CONSULTAR)',
 		price: 1450,
 		conditions: 'AYUNO 8 HORAS Y ANTES DE LA SIGUIENTES DOSIS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROCALCITONINA',
@@ -4805,7 +4805,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 1000,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROGESTERONA',
@@ -4814,7 +4814,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 280,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROLACTINA',
@@ -4823,7 +4823,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 280,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROLACTINA 3 TOMAS',
@@ -4832,7 +4832,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 750,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROTEINA C DE LA COAGULACION',
@@ -4842,7 +4842,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 2200,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROTEINA C REACTIVA ULTRASENSIBLE',
@@ -4851,7 +4851,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 450,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROTEINA S DE LA COAGULACION',
@@ -4861,7 +4861,7 @@ export const catalogue = [
 		days_for_delivery: '9',
 		price: 2300,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROTEINA C REACTIVA DE ALTA SENSIBILIDAD',
@@ -4870,7 +4870,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 450,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROTEINA C REACTIVA (SEMICUANTITATIVA)',
@@ -4879,7 +4879,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 100,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROTEINA DE BENCE JONES',
@@ -4888,7 +4888,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 420,
 		conditions: 'PRIMERA ORINA DE LA MAÑANA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROTEINA PLASMATICA ASOCIADA AL EMBARAZO (PAPP)',
@@ -4897,7 +4897,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 830,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROTEINAS TOTALES EN LIQUIDO PLEURAL',
@@ -4906,7 +4906,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 180,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROTEINAS TOTALES EN LCR',
@@ -4915,7 +4915,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 180,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROTEINAS BASICAS DE MIELINA ',
@@ -4924,7 +4924,7 @@ export const catalogue = [
 		days_for_delivery: '14',
 		price: 2750,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROTEINAS TOTALES SERICAS',
@@ -4933,7 +4933,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 150,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROTEINAS TOTALES EN ORINA',
@@ -4943,7 +4943,7 @@ export const catalogue = [
 		price: 180,
 		conditions:
 			'ELIMINAR PRIMERA ORINA DEL DIA CONCLUYENDO CON LA PRUEBA EL SEGUNDO DIA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROTOPORFIRINA LIBRE ERITROCITARIA',
@@ -4952,7 +4952,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 600,
 		conditions: 'AYUNO DE 8 HORAS PROTEGER DE LA LUZ ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PROTOPORFIRINA ZINC ERITROCITARIA',
@@ -4961,7 +4961,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 700,
 		conditions: 'AYUNO DE 8 HORAS PROTEGER DE LA LUZ ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PRUEBA DE PATERNIDAD 2 MUESTRAS',
@@ -4970,7 +4970,7 @@ export const catalogue = [
 		days_for_delivery: '13 DÍAS HÁBILES',
 		price: 8900,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PRUEBA DE PATERNIDAD 3 MUESTRAS',
@@ -4979,7 +4979,7 @@ export const catalogue = [
 		days_for_delivery: '13 DÍAS HÁBILES',
 		price: 12500,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PRUEBA DE ALIENTO HELICOBACTER PYLORI',
@@ -4988,7 +4988,7 @@ export const catalogue = [
 		days_for_delivery: '6 (CONSULTAR)',
 		price: 2880,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUANTIFERON',
@@ -4998,7 +4998,7 @@ export const catalogue = [
 		days_for_delivery: '9 DÍAS HÁBILES',
 		price: 2750,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUANTOSE',
@@ -5008,7 +5008,7 @@ export const catalogue = [
 		price: 1920,
 		conditions:
 			'REGISTRO DE: FECHA DE NACIMIENTO, FECHA Y HORA DE TOMA, SEXO, PESO, TALLA, HORAS DE AYUNO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUIMICA SANGUINEA PARCIAL (GLUCOSA, UREA, NITROGENO DE UREA, CREATININA)',
@@ -5017,7 +5017,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 150,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUIMICA SANGUINEA COMPLETA (Q.S.P + ACIDO URICO, COLESTEROL)',
@@ -5026,7 +5026,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 260,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUIMICA SANGUINEA 7 ELEMENTOS (Q.S.C. + TRIGLICERIDOS)',
@@ -5035,7 +5035,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 300,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUIMICA SANGUINEA 10 ELEMENTOS (Q.S.7. + HDL, LDL, VLDL)',
@@ -5044,7 +5044,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 440,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUIMICA SANGUINEA 15 ELEMENTOS (Q.S.10 + TGO, TGP)',
@@ -5053,7 +5053,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 600,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUIMICA SANGUINEA 20 ELEMENTOS (Q.S.15 + FOS. ALC, PROT. TOT, ALBUMINA, GLOBULINA, REL. A/G)',
@@ -5062,7 +5062,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 790,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUIMICA SANGUINEA 25 ELEMENTOS (Q.S.20 + DHL, CK, CK-MB, LIPASA, AMILASA)',
@@ -5071,7 +5071,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 950,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUIMICA SANGUINEA 30 ELEMENTOS (Q.S.25 SODIO, POTASIO, FOSFORO, CLORO, CALCIO)',
@@ -5080,7 +5080,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 1080,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUIMICA SANGUINEA 32 ELEMENTOS (Q.S.30 + MAGNESIO, GGT)',
@@ -5089,7 +5089,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 1200,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUIMICA SANGUINEA 35 ELEMENTOS (Q.S. 32 + HIERRO, % DE SATURACION DE HIERRO, CAPACIDAD DE FIJACION DE HIERRO)',
@@ -5098,7 +5098,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 1510,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUIMICA SANGUINEA 40 ELEMENTOS (Q.S. 35 + FERRITINA, TRANSFERRINA, ION AMONIO, INSULINA, LITIO)',
@@ -5107,7 +5107,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 2770,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUIMICA SANGUINEA 45 ELEMENTOS (Q.S. 40 + IgG, IgM, IgE, IgA, PLOMO)',
@@ -5116,7 +5116,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 4390,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUIMICA SANGUINEA 50 ELEMENTOS (Q.S. 45 + DIMERO D, PROCALCITONINA, RENINA PLASMATICA, TROPONINA, SEROTONINA)',
@@ -5125,7 +5125,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 8370,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'QUIMICA SANGUINEA 55 ELEMENTOS (Q.S. 50 + VIT. C., SALICILATOS, VIT. A, VIT. B1, VIT. B12)',
@@ -5134,7 +5134,7 @@ export const catalogue = [
 		days_for_delivery: '15',
 		price: 17890,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'REACCIONES FEBRILES',
@@ -5143,7 +5143,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 190,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'RECUENTO CELULAR DE LIQUIDO DE DIALISIS',
@@ -5152,7 +5152,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 210,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'RECUENTO DE ASPIRADO GASTRICO',
@@ -5161,7 +5161,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 210,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'RELACION ALBUMINA / CREATININA (CREATININA EN ORINA + MICROALBUMINURIA EN ORINA ESPONTÁNEA)',
@@ -5170,7 +5170,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 340,
 		conditions: 'PRIMERA ORINA DE LA MAÑANA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'RELACION ALBUMINA / GLOBULINA (PROT. TOT, ALBUMINA, ELECTROFORESIS DE PROTEINAS)',
@@ -5179,7 +5179,7 @@ export const catalogue = [
 		days_for_delivery: '4 DÍAS HÁBILES ENTREGA DESPUÉS DE 19:00 HRS.',
 		price: 420,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'RENINA PLASMATICA',
@@ -5189,7 +5189,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 650,
 		conditions: 'COMPLETO REPOSO MINIMO 20 MIN. ANTES DE LA TOMA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'RESISTENCIA A LA INSULINA',
@@ -5198,7 +5198,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 350,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'RESISTENCIA A LA PROTEINA "C" ACTIVADA',
@@ -5207,7 +5207,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 1600,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'RETICULOCITOS',
@@ -5216,7 +5216,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 90,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ROTAVIRUS EN HECES',
@@ -5225,7 +5225,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 360,
 		conditions: 'SIN INDICACION ESPECIAL',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'RPR',
@@ -5234,7 +5234,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 275,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'SALICILATOS',
@@ -5243,7 +5243,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 3200,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'SANGRE OCULTA EN HECES',
@@ -5253,7 +5253,7 @@ export const catalogue = [
 		price: 110,
 		conditions:
 			'DIETA LIBRE DE CARNES ROJAS MINIMO 2 DIAS ANTES DE LA PRUEBA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'SEROTONINA',
@@ -5262,7 +5262,7 @@ export const catalogue = [
 		days_for_delivery: '11',
 		price: 1200,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'SIROLIMUS',
@@ -5271,7 +5271,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 1440,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'SODIO SERICO',
@@ -5280,7 +5280,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 90,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'SODIO URINARIO',
@@ -5289,7 +5289,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 160,
 		conditions: 'ORINA SIN ACIDO REFRIGERAR DURANTE LA RECOLECCION',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'SOMATOMEDINA C (IGF-1)',
@@ -5298,7 +5298,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 500,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'SUBCLASE DE INMUNOGLOBULINA IgA (IgA1,IgA2)',
@@ -5307,7 +5307,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 4450,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'SUBCLASE DE INMUNOGLOBULINAS IgG (IgG1,IgG2,IgG3,IgG4, IgG TOTAL)',
@@ -5316,7 +5316,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 3700,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TACROLIMUS',
@@ -5326,7 +5326,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 1200,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TEOFILINA (AMINOFILINA)',
@@ -5335,7 +5335,7 @@ export const catalogue = [
 		days_for_delivery: '2',
 		price: 340,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TESTOSTERONA TOTAL',
@@ -5344,7 +5344,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 320,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TESTOSTERONA LIBRE',
@@ -5353,7 +5353,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 350,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TIEMPOS DE COAGULACION (TP, TTP)',
@@ -5363,7 +5363,7 @@ export const catalogue = [
 		price: 150,
 		conditions:
 			'AYUNO DE 8 HORAS. NO INGERIR ASPIRINA O ANTIINFLAMATORIOS 4 DIAS ANTES DE LA PRUEBA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TIROGLOBULINA',
@@ -5372,7 +5372,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 330,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TIROXINA LIBRE T4 LIBRE (T4L, LEVOTIROXINA)',
@@ -5381,7 +5381,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 280,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TIROXINA NEONATAL (T4 NEONATAL)',
@@ -5391,7 +5391,7 @@ export const catalogue = [
 		price: 310,
 		conditions:
 			'RECOLECTAR DESPUES DE LA SEGUNDA TOMA DE LECHE O A LAS 48 HORAS DE NACIMIENTO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TIROXINA TOTAL T4 TOTAL T4L',
@@ -5400,7 +5400,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 280,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TOPIRAMATO ',
@@ -5409,7 +5409,7 @@ export const catalogue = [
 		days_for_delivery: '14',
 		price: 2900,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TRANSFERRINA',
@@ -5418,7 +5418,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 350,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TRIGLICERIDOS',
@@ -5427,7 +5427,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 140,
 		conditions: 'AYUNO DE 12 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TRIPLE MARCADOR',
@@ -5436,7 +5436,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 2750,
 		conditions: 'PREGUNTAR POR INDICACIONES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TRIYODOTIRONINA LIBRE T3 (T3 LIBRE)',
@@ -5445,7 +5445,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 280,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TREPONEMA EN CAMPO OSCURO',
@@ -5454,7 +5454,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 280,
 		conditions: 'ENVIAR HISOPO CON SECRESION',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TRIYODOTIRONINA TOTAL T3 (T3 TOTAL)',
@@ -5463,7 +5463,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 280,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TSH NEONATAL',
@@ -5473,7 +5473,7 @@ export const catalogue = [
 		price: 300,
 		conditions:
 			'TOMAR DESPUES DE LA SEGUNDA TOMA DE LECHE O A LAS 48 HORAS DE NACIMIENTO',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'TROPONINA',
@@ -5482,7 +5482,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 500,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'UREA EN ORINA DE 24 HORAS',
@@ -5491,7 +5491,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 80,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'UREA SERICA',
@@ -5500,7 +5500,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 80,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'VASOPRESINA (HORMONA ANTIDIURETICA)',
@@ -5509,7 +5509,7 @@ export const catalogue = [
 		days_for_delivery: '14',
 		price: 2950,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'VDRL',
@@ -5518,7 +5518,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 100,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'VELOCIDAD DE ERITROSEDIMENTACION',
@@ -5527,7 +5527,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 110,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'VIRUS DEL PAPILOMA (ALTO RIESGO) (PCR EN TIEMPO REAL)',
@@ -5537,7 +5537,7 @@ export const catalogue = [
 		days_for_delivery: '8',
 		price: 3100,
 		conditions: 'PREGUNTAR',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'VITAMINA "A" RETINOL',
@@ -5546,7 +5546,7 @@ export const catalogue = [
 		days_for_delivery: '12',
 		price: 1320,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'VITAMINA B1 (TIAMINA)',
@@ -5555,7 +5555,7 @@ export const catalogue = [
 		days_for_delivery: '12',
 		price: 1050,
 		conditions: ' AYUNO DE 8 HORAS PROTEGER DE LA LUZ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'VITAMINA B12',
@@ -5564,7 +5564,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 380,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'VITAMINA C',
@@ -5573,7 +5573,7 @@ export const catalogue = [
 		days_for_delivery: '15',
 		price: 3500,
 		conditions: 'AYUNO DE 8 HORAS PROTEGER DE LA LUZ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'VITAMINA D 1,25 TOTAL (CALCITRIOL)',
@@ -5582,7 +5582,7 @@ export const catalogue = [
 		days_for_delivery: '5',
 		price: 1100,
 		conditions: 'AYUNO DE 8 HORAS PROTEGER DE LA LUZ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'VITAMINA D 25 HIDROXITOTAL (CALCIFEROL)',
@@ -5591,7 +5591,7 @@ export const catalogue = [
 		days_for_delivery: '1',
 		price: 770,
 		conditions: 'AYUNO DE 8 HORAS PROTEGER DE LA LUZ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'VITAMINA E (TOCOFEROL)',
@@ -5600,7 +5600,7 @@ export const catalogue = [
 		days_for_delivery: '14',
 		price: 1680,
 		conditions: 'AYUNO DE 8 HORAS PROTEGER DE LA LUZ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'WESTERN BLOT HIV1',
@@ -5609,7 +5609,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 3000,
 		conditions: 'AYUNO 8 HORAS ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'WESTERN BLOT HIV2',
@@ -5618,7 +5618,7 @@ export const catalogue = [
 		days_for_delivery: '4',
 		price: 3400,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ZINC EN ORINA',
@@ -5627,7 +5627,7 @@ export const catalogue = [
 		days_for_delivery: '12',
 		price: 1650,
 		conditions: 'SIN INDICACIONES ESPECIALES',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ZINC EN SUERO',
@@ -5636,7 +5636,7 @@ export const catalogue = [
 		days_for_delivery: '6',
 		price: 1450,
 		conditions: 'AYUNO DE 8 HORAS',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ESTUDIOS PRENUPCIALES CADA PACIENTE (VIH, VDRL, GPO.RH)',
@@ -5645,7 +5645,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 480,
 		conditions: 'POR PERSONA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'ESTUDIOS PRENUPCIALES PAREJA',
@@ -5654,7 +5654,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 810,
 		conditions: 'POR PAREJA',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'PRUEBA RAPIDA DE INFLUENZA',
@@ -5663,7 +5663,7 @@ export const catalogue = [
 		days_for_delivery: '0',
 		price: 700,
 		conditions: 'SIN ESPECIFICAR ',
-		categoryId: '64c05d6ad48014ac18064a7a'
+		categoryId: '64cb417d832e6f0ec9d4efb8'
 	},
 	{
 		name: 'CULTIVO DE ABSESO CON ANTIBIOGRAMA',
@@ -5673,7 +5673,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE ESPUTO CON ANTIBIOGRAMA',
@@ -5683,7 +5683,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE EXUDADO CERVICO VAGINAL 1 CON ANTIBIOGRAMA',
@@ -5693,7 +5693,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE EXUDADO CERVICO VAGINAL 3 CON ANTIBIOGRAMA ( Vaginal I con cultivo de Mycplasma sp, Ureaplasma sp e Inv. De Chlamydia trachomatis)',
@@ -5703,7 +5703,7 @@ export const catalogue = [
 		price: 500,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE EXUDADO CERVICO VAGINAL 3 CON MIC ( Vaginal I con cultivo de Mycplasma sp, Ureaplasma sp e Inv. De Chlamydia trachomatis)',
@@ -5713,7 +5713,7 @@ export const catalogue = [
 		price: 600,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE EXUDADO CONJUNTIVAL 2 CON AB. (INCLUYE INV. DE CHLAMYDIA TRACHOMATIS)',
@@ -5723,7 +5723,7 @@ export const catalogue = [
 		price: 440,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE EXUDADO CONJUNTIVAL CON AB.',
@@ -5733,7 +5733,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE EXUDADO NASAL CON AB.',
@@ -5743,7 +5743,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE EXUDADO OROFARINGEO CON AB.',
@@ -5753,7 +5753,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE EXUDADO URETRAL I CON AB.',
@@ -5763,7 +5763,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE EXUDADO URETRAL 2 CON AB. (Uretal I , Cultivo de Mycoplasma sp, Ureaplasma sp Y Busqueda de Chlamydia Trachomatis)',
@@ -5773,7 +5773,7 @@ export const catalogue = [
 		price: 660,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE EXUDADO VULVAR CON AB.',
@@ -5783,7 +5783,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE HECES COPROCULTIVO CON AB.',
@@ -5793,7 +5793,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE HECES 2 CON AB. Incluye busqueda de Salmonella sp, Shigella sp, Campylobacter sp,Vibrio cholerae, V parahaemolyticus, Aeromonas sp, Plesiomonas sp y Yersinia enterocolitica',
@@ -5803,7 +5803,7 @@ export const catalogue = [
 		price: 440,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE LESION CON AB.',
@@ -5813,7 +5813,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE LIQUIDO BRONQUIAL CON AB.',
@@ -5823,7 +5823,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE LIQUIDO CEFALORRAQUIDEO CON AB.',
@@ -5833,7 +5833,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE LIQUIDO DE ASCITIS CON AB.',
@@ -5843,7 +5843,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE LIQUIDO DE DIALISIS CON AB.',
@@ -5853,7 +5853,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE LIQUIDO PLEURAL CON AB.',
@@ -5863,7 +5863,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE LIQUIDO SENOVIAL CON AB.',
@@ -5873,7 +5873,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE Mycobacterium Tuberculosis u otras especies',
@@ -5883,7 +5883,7 @@ export const catalogue = [
 		price: 620,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE MYCOPLASMA PNEUMONIAE CON AB.',
@@ -5893,7 +5893,7 @@ export const catalogue = [
 		price: 570,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE NEISSERIA GONORRHOEAE CON AB',
@@ -5903,7 +5903,7 @@ export const catalogue = [
 		price: 330,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE ORINA (UROCULTIVO) CON AB.',
@@ -5913,7 +5913,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE ORINA 2 CON AB. ( cultivo de Mycplasma sp, Ureaplasma sp e Inv. De Chlamydia trachomatis)',
@@ -5923,7 +5923,7 @@ export const catalogue = [
 		price: 540,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE PUNTA DE CATETER',
@@ -5933,7 +5933,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE SECRESION ARTICULAR CON AB',
@@ -5943,7 +5943,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE SECRESION DE HERIDA CON AB.',
@@ -5953,7 +5953,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE SECRESION OTICA CON AB.',
@@ -5963,7 +5963,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE SEMEN (ESPERMOCULTIVO) CON AB.',
@@ -5973,7 +5973,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE SEMEN 2 CON AB. (cultivo de Mycplasma sp, Ureaplasma sp e Inv. De Chlamydia trachomatis)',
@@ -5983,7 +5983,7 @@ export const catalogue = [
 		price: 490,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE SURCO BALANO PREPUCIAL CON AB.',
@@ -5993,7 +5993,7 @@ export const catalogue = [
 		price: 270,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO DE UREAPLASMA UREALYTICUM CON AB.',
@@ -6003,7 +6003,7 @@ export const catalogue = [
 		price: 560,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'CULTIVO MICOLOGICO CON AB. (Hongos levaduriformes)',
@@ -6013,7 +6013,7 @@ export const catalogue = [
 		price: 680,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'HEMOCULTIVO CON ANTIBIOGRAMA',
@@ -6023,7 +6023,7 @@ export const catalogue = [
 		price: 740,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'INVESTIGACION DE CHLAMYDIA TRACHOMATIS',
@@ -6033,7 +6033,7 @@ export const catalogue = [
 		price: 350,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'MYCOBACTERIUM SP. DROGOSENSIBLILIDAD 5 DROGAS',
@@ -6043,7 +6043,7 @@ export const catalogue = [
 		price: 2200,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'RUTINA DE INFECCIONES PULMONARES (CULTIVO AEROBIO, CULTIVO ANAEROBIO, CULTIVO MICOLOGICO, BASILOSCOPIA, DETECCION DE CHLAMYDIA TRACHOMATIS, VIRUS SINCICIALRESPIRATORIO, PNEUMOCYSTISCARINII,CRYPTOCOCCUS NEUFORMANS)',
@@ -6053,7 +6053,7 @@ export const catalogue = [
 		price: 1300,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'STREPTOGEN Streptococcus pyogenes, deteccion de ',
@@ -6063,7 +6063,7 @@ export const catalogue = [
 		price: 370,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'TINCION DE ZIEHL NEELSEN',
@@ -6073,7 +6073,7 @@ export const catalogue = [
 		price: 160,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'TINCION PARA PNEUMOCYSTIS CARINNI',
@@ -6083,7 +6083,7 @@ export const catalogue = [
 		price: 350,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'V. CHOLERAE O:1 INVESTIGACION RAPIDA',
@@ -6093,7 +6093,7 @@ export const catalogue = [
 		price: 450,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'VIRUS SINCICIAL RESPIRATORIO, DETECCION DE',
@@ -6103,7 +6103,7 @@ export const catalogue = [
 		price: 470,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'EXAMEN FISICO-QUIMICO DEL AGUA',
@@ -6113,7 +6113,7 @@ export const catalogue = [
 		price: 1545,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'RASPADO DE MANOS (LECHO UNGUEAL)',
@@ -6123,7 +6123,7 @@ export const catalogue = [
 		price: 370,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'AGUA PARA USO Y CONSUMO HUMANO',
@@ -6133,7 +6133,7 @@ export const catalogue = [
 		price: 550,
 		conditions:
 			'1. En todos los cultivos, no tomar antibioticos 8 dias previos a la toma del mismo. 2. Para exudados orofaringeos no realizar aseo bucal, no ingerir alimentos previos a la toma. 3.Para exudados vaginales y uretrales, no realizar duchas vaginales , abstinencia mínimo tres dias previos a la toma.',
-		categoryId: '64c05d6ad48014ac18064a7b'
+		categoryId: '64cb417d832e6f0ec9d4efb9'
 	},
 	{
 		name: 'BIOPSIA HASTA 1 CM',
@@ -6142,7 +6142,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 720,
 		conditions: 'SIN INDICACION ESPECIAL',
-		categoryId: '64c05d6ad48014ac18064a7c'
+		categoryId: '64cb417d832e6f0ec9d4efba'
 	},
 	{
 		name: 'PIEZA HASTA 10 CM (APENDICE, FIBRO ADENOMA, VISICULA, OVARIO,PROSTATA, QUISTE)',
@@ -6151,7 +6151,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 900,
 		conditions: 'SIN INDICACION ESPECIAL',
-		categoryId: '64c05d6ad48014ac18064a7c'
+		categoryId: '64cb417d832e6f0ec9d4efba'
 	},
 	{
 		name: 'PIEZAS MAYORES (UTERO, QUISTES)',
@@ -6160,7 +6160,7 @@ export const catalogue = [
 		days_for_delivery: '7',
 		price: 1200,
 		conditions: 'SIN INDICACION ESPECIAL',
-		categoryId: '64c05d6ad48014ac18064a7c'
+		categoryId: '64cb417d832e6f0ec9d4efba'
 	},
 	{
 		name: 'PAPANICOLAOU',
@@ -6169,7 +6169,7 @@ export const catalogue = [
 		days_for_delivery: '3',
 		price: 270,
 		conditions: 'SIN ESPECIFICAR',
-		categoryId: '64c05d6ad48014ac18064a7c'
+		categoryId: '64cb417d832e6f0ec9d4efba'
 	},
 	{
 		name: 'CITOLOGIA CERVICO-VAGINAL EN BASE LIQUIDA',
@@ -6179,6 +6179,6 @@ export const catalogue = [
 		price: 700,
 		conditions:
 			'ANTICIPAR AL PACIENTE LA REALIZACION DEL ESTUDIO DOS DIAS ANTES',
-		categoryId: '64c05d6ad48014ac18064a7d'
+		categoryId: '64cb417d832e6f0ec9d4efbb'
 	}
 ];

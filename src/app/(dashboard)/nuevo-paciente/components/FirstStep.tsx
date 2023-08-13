@@ -1,43 +1,10 @@
 'use client';
 
-import { Dispatch, FC, SetStateAction, useEffect, useState } from 'react';
+import { useNewUser } from '@/hooks';
 
-interface FirstStepProps {
-	setStep: (step: number) => void;
-	setUser: Dispatch<
-		SetStateAction<{
-			name: string;
-			lastname: string;
-			email: string;
-			phoneNumber: string;
-			clinic: string;
-		}>
-	>;
-	user: {
-		name: string;
-		lastname: string;
-		email: string;
-		phoneNumber: string;
-		clinic: string;
-	};
-}
-
-const FirstStep: FC<FirstStepProps> = ({ setStep, user, setUser }) => {
-	const [name, setName] = useState(user.name);
-	const [lastname, setLastname] = useState(user.lastname);
-	const [email, setEmail] = useState(user.email);
-	const [phoneNumber, setPhoneNumber] = useState(user.phoneNumber);
-	const [clinic, setClinic] = useState(user.clinic)
-
-	useEffect(() => {
-		setUser({
-			name,
-			lastname,
-			email,
-			phoneNumber,
-			clinic
-		});
-	}, [name, email, lastname, phoneNumber, clinic, setUser]);
+const FirstStep = () => {
+	
+	const { user, setUser, clinic, setClinic, setStep } = useNewUser();
 
 	return (
 		<div className="mt-4 md:mt-6 max-w-xl">
@@ -52,8 +19,11 @@ const FirstStep: FC<FirstStepProps> = ({ setStep, user, setUser }) => {
 							Nombre(s)
 						</label>
 						<input
-							value={name}
-							onChange={e => setName(e.target.value)}
+							value={user.name}
+							onChange={e => setUser({
+								...user,
+								name: e.target.value
+							})}
 							id="name"
 							type="text"
 							name="name"
@@ -68,8 +38,11 @@ const FirstStep: FC<FirstStepProps> = ({ setStep, user, setUser }) => {
 							Apellidos
 						</label>
 						<input
-							value={lastname}
-							onChange={e => setLastname(e.target.value)}
+							value={user.lastname}
+							onChange={e => setUser({
+								...user,
+								lastname: e.target.value
+							})}
 							id="lastname"
 							type="text"
 							name="lastname"
@@ -84,8 +57,11 @@ const FirstStep: FC<FirstStepProps> = ({ setStep, user, setUser }) => {
 							Correo electrónico
 						</label>
 						<input
-							value={email}
-							onChange={e => setEmail(e.target.value)}
+							value={user.email}
+							onChange={e => setUser({
+								...user,
+								email: e.target.value
+							})}
 							id="email"
 							type="email"
 							name="email"
@@ -100,8 +76,11 @@ const FirstStep: FC<FirstStepProps> = ({ setStep, user, setUser }) => {
 							Número de teléfono
 						</label>
 						<input
-							value={phoneNumber}
-							onChange={e => setPhoneNumber(e.target.value)}
+							value={user.phoneNumber}
+							onChange={e => setUser({
+								...user,
+								phoneNumber: e.target.value
+							})}
 							id="phone"
 							type="tel"
 							name="phone"
@@ -110,7 +89,7 @@ const FirstStep: FC<FirstStepProps> = ({ setStep, user, setUser }) => {
 					</div>
 					<div className="flex flex-col gap-2">
 						<label
-							htmlFor="phone"
+							htmlFor="clinic"
 							className="block text-sm font-medium text-gray-900"
 						>
 							Clínica de proveniencia

@@ -1,24 +1,19 @@
 import { connectHits } from 'react-instantsearch-dom';
-import CustomHighlight from './CustomHighLight';
-import { Dispatch, FC, SetStateAction } from 'react';
 
-interface Analysis {
-	id: string;
-	name: string;
-	price: number;
-}
+import CustomHighlight from './CustomHighLight';
+import { useNewUser } from '@/hooks';
 
 interface HitsProps {
-	setAnalysis: Dispatch<SetStateAction<Analysis[]>>;
 	hits: any;
-	analysis: Analysis[];
 }
 
-const Hits: FC<HitsProps> = ({ hits, setAnalysis, analysis }) => {
+const Hits: React.FC<HitsProps> = ({ hits }) => {
+	const { analyses, setAnalyses } = useNewUser();
+
 	const handleClick = (hit: any) => {
-		if (analysis.map(e => e.id === hit.id).includes(true)) return 
-		setAnalysis([
-			...analysis,
+		if (analyses.map(e => e.id === hit.id).includes(true)) return;
+		setAnalyses([
+			...analyses,
 			{
 				id: hit.id,
 				name: hit.name,

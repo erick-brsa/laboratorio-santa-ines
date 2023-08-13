@@ -1,32 +1,13 @@
 import { Configure, InstantSearch } from 'react-instantsearch-dom';
 import { TrashIcon } from '@heroicons/react/24/outline';
-import { Dispatch, FC, SetStateAction } from 'react';
 import CustomSearchBox from './search/CustomSearchBox';
 import CustomHits from './search/CustomHits';
-import algoliasearch from 'algoliasearch';
+import { searchClient } from '@/lib/algolia';
+import { useNewUser } from '@/hooks';
 
-interface Analysis {
-	id: string;
-	name: string;
-	price: number;
-}
 
-interface SecondStepProps {
-	setStep: (step: number) => void;
-	analysis: Analysis[];
-	setAnalysis: Dispatch<SetStateAction<Analysis[]>>;
-}
-
-const searchClient = algoliasearch(
-	process.env.NEXT_PUBLIC_ALGOLIA_APP_ID || '',
-	process.env.NEXT_PUBLIC_ALGOLIA_SEARCH_API_KEY || ''
-);
-
-const SecondStep: FC<SecondStepProps> = ({
-	setStep,
-	analysis,
-	setAnalysis
-}) => {
+const SecondStep = () => {
+	const {analyses, setAnalyses, setStep } = useNewUser();
 	return (
 		<div className="mt-4 md:mt-6">
 			<h2 className="my-4 font-semibold">Seleccionar estudio(s) a realizar</h2>
@@ -37,16 +18,16 @@ const SecondStep: FC<SecondStepProps> = ({
 					snippetEllipsisText="…"
 				/>
 				<CustomSearchBox />
-				<CustomHits analysis={analysis} setAnalysis={setAnalysis} />
+				<CustomHits />
 			</InstantSearch>
 			<div className="my-10">
-				{analysis.length > 0 && (
+				{analyses.length > 0 && (
 					<div className="">
 						<h3 className="font-semibold">
 							Análisis seleccionados
 						</h3>
 						<div className="grid grid-cols-1 lg:grid-cols-3 2xl:grid-cols-4 gap-4 my-4 md:my-6">
-							{analysis.map(a => (
+							{analyses.map(a => (
 								<article
 									key={a.id}
 									className="flex justify-between items-center bg-gray-100 p-4 shadow rounded cursor-pointer hover:ring-2"
@@ -59,7 +40,7 @@ const SecondStep: FC<SecondStepProps> = ({
 									</div>
 									<div
 										className="h-fit bg-gray-200 hover:bg-gray-300 rounded-full p-2"
-										onClick={() => setAnalysis(analysis.filter(e => e.id !== a.id))}
+										onClick={() => setAnalyses(analyses.filter(e => e.id !== a.id))}
 									>
 										<TrashIcon className="h-6 w-6 text-gray-500" />
 									</div>
